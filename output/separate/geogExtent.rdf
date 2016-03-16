@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/">
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/geogExtent">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <rdfs:label xml:lang="en">Bionet geogExtent vocabulary (RB test v3)</rdfs:label>
+      <dcterms:title xml:lang="en">Bionet geogExtent vocabulary (RB test v3)</dcterms:title>
+      <dcterms:description xml:lang="en">The geogExtent vocabulary is used by Bionet to populate the geogExtent field within the Record-level terms section of the Bionet Species Sighting Standard</dcterms:description>
+      <dcterms:description xml:lang="en">For more information about the Bionet Species Sighting Standard, see https://data.bionet.nsw.gov.au/resources/bionet/BioNet-species-sighting-web-service-data-standard.pdf</dcterms:description>
+      <dcterms:subject xml:lang="en">species</dcterms:subject>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/geogExtent/d1e155a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/geogExtent/d1e156a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/geogExtent/d1e157a1900"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/geogExtent/d1e155a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">W</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/geogExtent"/>
+      <skos:definition xml:lang="en">Widespread; where the species is known from 5 or more BFMCs</skos:definition>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/geogExtent/d1e156a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">R</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/geogExtent"/>
+      <skos:definition xml:lang="en">Restricted; where the species is known from 2 to 4 BFMCs</skos:definition>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/geogExtent/d1e157a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">HR</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/geogExtent"/>
+      <skos:definition xml:lang="en">Highly Restricted; where the species in only known from 1 BFMC</skos:definition>
+   </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/">
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <rdfs:label xml:lang="en">Bionet observationType vocabulary (RB test v3)</rdfs:label>
+      <dcterms:title xml:lang="en">Bionet observationType vocabulary (RB test v3)</dcterms:title>
+      <dcterms:description xml:lang="en">The observationType vocabulary is used by Bionet to populate the observationType field within the Occurrence section of the Bionet Species Sighting Standard</dcterms:description>
+      <dcterms:description xml:lang="en">For more information about the Bionet Species Sighting Standard, see https://data.bionet.nsw.gov.au/resources/bionet/BioNet-species-sighting-web-service-data-standard.pdf</dcterms:description>
+      <dcterms:subject xml:lang="en">species</dcterms:subject>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e323a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e324a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e325a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e326a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e327a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e328a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e329a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e330a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e331a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e332a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e333a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e335a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e336a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e337a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e338a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e339a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e340a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e341a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e342a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e343a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e344a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e345a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e347a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e348a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e349a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e350a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e351a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e352a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e353a1900"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e323a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Acoustic recording</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e324a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Bone, teeth or shell</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e325a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Burnt</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e326a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Burrow</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e327a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Camera</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e328a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Cat kill</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e329a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Crushed Cones</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e330a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Dead</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e331a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Dog kill</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e332a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Flora Record</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e333a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Floristics Record from Systematic Flora Survey</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e335a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Fox kill</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e336a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Hair, feathers or skin</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e337a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Heard call</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e338a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">In raptor/owl pellet</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e339a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">In scat</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e340a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Miscellaneous</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e341a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Nest/roost</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e342a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Not located</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e343a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Observed</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e344a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Observed and Heard call</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e345a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Road kill</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e347a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Scat</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e348a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Shot</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e349a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Stranding/beached</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e350a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Subfossil/Fossil Remains</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e351a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Tracks, scratchings</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e352a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Trapped or netted</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/observationType/d1e353a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Ultrasonic recording</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/observationType"/>
+   </rdf:Description>
+
+</rdf:RDF>

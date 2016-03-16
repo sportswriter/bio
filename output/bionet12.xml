@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+   <section name="Record-level terms" id="d1e2a1900">
+      <term name="basisOfRecord" id="d1e3a1900">
+         <example>"PreservedSpecimen", "FossilSpecimen", "LivingSpecimen", "HumanObservation", "MachineObservation".</example>
+         <definition>The specific nature of the data record.</definition>
+         <definition>Based on the Darwin Core Type controlled vocabulary (http://rs.tdwg.org/dwc/terms/type-vocabulary/index.htm).</definition>
+      </term>
+      <term name="collectionCode" id="d1e10a1900">
+         <example>“BioNet Atlas of NSW Wildlife”</example>
+         <definition>The name, acronym, coden, or initialism identifying the collection or data set from which the record was derived.</definition>
+         <definition>This will always be “BioNet Atlas of NSW Wildlife”</definition>
+      </term>
+      <term name="dataGeneralizations" id="d1e17a1900">
+         <example>“coordinates rounded to 0.01DEG” or “coordinates rounded to 0.1DEG”</example>
+         <example>“The observer name has been changed to a unique User ID”</example>
+         <definition>Actions taken to make the shared data less specific or complete than in its original form.</definition>
+         <definition>In this case, when the record is for a species that is listed in the Sensitive Species data policy information will be given on the actual denaturing applied to the location data. It will be either:</definition>
+         <definition>coordinates rounded to 0.01°” for Category 3 species</definition>
+         <definition>oordinates rounded to 0.1°” for Category 2 species</definition>
+         <definition>The policy in full including the sensitive species listings can be located at:  http://www.environment.nsw.gov.au/policiesandguidelines/SensitiveSpeciesPolicy.htm</definition>
+         <definition>For Public and Licensed users the Observer Names will be provided as UserID, and there will be text =”The observer name has been changed to a unique User ID”</definition>
+      </term>
+      <term name="datasetID" id="d1e34a1900">
+         <example>12</example>
+         <definition>An identifier for the set of data. May be a global unique identifier or an identifier specific to a collection or institution.</definition>
+      </term>
+      <term name="datasetName" id="d1e39a1900">
+         <example>“Atlas of Australian Birds 1”, “OEH Default Sightings”, “Grafton SF EIS Survey”</example>
+         <definition>The name identifying the data set from which the record was derived.</definition>
+      </term>
+      <term name="Dcterms_bibliographicCitation" id="d1e44a1900">
+         <example>“Atlas of NSW Wildlife 22/08/2014 12:47 AM + 10:00”</example>
+         <definition>A bibliographic reference for the resource as a statement indicating how this record should be cited (attributed) when used.</definition>
+         <definition>This reference will be formatted as follows: “Atlas of NSW Wildlife &lt;current date&gt; &lt;HH:MM&gt; &lt;AM/PM&gt; + &lt;HH:MM offset from UTC&gt;”</definition>
+         <definition>Note: the date and time are AEST adjusted for daylight saving and reflect the data and time that the web service data was last refreshed from the source data (BioNet Atlas of NSW Wildlife database).</definition>
+      </term>
+      <term name="Dcterms_language" id="d1e53a1900">
+         <example>"en" for English</example>
+         <definition>The language of the resource based on RFC 4646 [RFC4646].</definition>
+      </term>
+      <term name="Dcterms_modified" id="d1e58a1900">
+         <example>“15/03/2011 4:42 PM +11:00”2007 1pm UTC and 11 May 2008 3:30pm UTC, "2007-11-13/15" is the interval between 13 Nov 2007 and 15 Nov 2007.</example>
+         <definition>The most recent date-time on which the resource was changed based on ISO 8601:2004(E).</definition>
+         <definition>Note:  OData only supports datetimeoffset, which mandates that the offset from UTC is given.  For many historical records in the BioNet Atlas of NSW Wildlife we cannot be certain that the server capturing the data at the time was adjusted for daylight savings.  To this end, the offset should not be relied upon.</definition>
+      </term>
+      <term name="Dcterms_rights" id="d1e65a1900">
+         <example>"Creative Commons By Attribution"</example>
+         <definition>Information about rights held in and over the resource. Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights.</definition>
+      </term>
+      <term name="Dcterms_rightsHolder" id="d1e70a1900">
+         <example>"Office of Environment and Heritage”, “Birds Australia”, “Australian Museum”</example>
+         <definition>A person or organization owning or managing rights over the resource.</definition>
+      </term>
+      <term name="Dcterms_type" id="d1e75a1900">
+         <example>"StillImage", "MovingImage", "Sound", "PhysicalObject", "Event".</example>
+         <definition>The nature or genre of the resource. For Darwin Core, recommended best practice is to use the name of the class that defines the root of the record.</definition>
+      </term>
+      <term name="dynamicProperties" id="d1e81a1900">
+         <intro>The following table provides the full definitions of the data which will be passed using the dynamicProperties field in the Record-level terms table above.</intro>
+         <term name="BFMCS" id="d1e106a1900">
+            <example>“8”</example>
+            <definition>The number of bush fire management council areas that the species is found in.</definition>
+         </term>
+         <term name="botanicalDivision" id="d1e111a1900">
+            <example>“North Coast”</example>
+            <definition>The name of the Botanical Division within which the flora record occurs based on Harden (1990)[1]. Will be one of the following:</definition>
+            <vocab name="botanicalDivision" id="d1e116a1900">
+               <term name="North Coast" id="d1e117a1900"/>
+               <term name="Central Coast" id="d1e118a1900"/>
+               <term name="South Coast" id="d1e119a1900"/>
+               <term name="Northern Tablelands" id="d1e120a1900"/>
+               <term name="Central Tablelands" id="d1e121a1900"/>
+               <term name="Southern Tablelands" id="d1e122a1900"/>
+               <term name="North Western Slopes" id="d1e123a1900"/>
+               <term name="South Western Slopes" id="d1e124a1900"/>
+               <term name="North Western Plains" id="d1e125a1900"/>
+               <term name="South Western Plains" id="d1e126a1900"/>
+               <term name="North Far Western Plains" id="d1e127a1900"/>
+               <term name="South Far Western Plains" id="d1e129a1900"/>
+            </vocab>
+         </term>
+         <term name="CMA" id="d1e130a1900">
+            <example>“Northern Rivers”</example>
+            <definition>The name of the Catchment Management Authority within which the record occurs.</definition>
+         </term>
+         <term name="CMAsubregion" id="d1e135a1900">
+            <example>“Clarence Valley”</example>
+            <definition>The name of the Catchment Management Authority subregion within which the record occurs.</definition>
+         </term>
+         <term name="floraReserve" id="d1e140a1900">
+            <example>“Fenwicks Scrub Flora Reserve”</example>
+            <definition>If the record occurs within a flora reserve (as defined in the Forestry Act 2012) this field gives the name of that flora reserve. If the field is marked “N/A” this indicates that the record does not occur within a flora reserve.</definition>
+            <definition>Note: This field does not give the name of reserves administered under the National Parks Wildlife Act 1974. See the ‘reserve’ field for information on reserves administered under that act.</definition>
+         </term>
+         <term name="geogExtent" id="d1e147a1900">
+            <example>“HR”</example>
+            <definition>The geographic extent of the species based on the following controlled vocabulary:</definition>
+            <definition>Otherwise this field gives the value “N/A”</definition>
+            <vocab name="geogExtent" id="d1e154a1900">
+               <term name="W" id="d1e155a1900">
+                  <definition>Widespread; where the species is known from 5 or more BFMCs</definition>
+               </term>
+               <term name="R" id="d1e156a1900">
+                  <definition>Restricted; where the species is known from 2 to 4 BFMCs</definition>
+               </term>
+               <term name="HR" id="d1e157a1900">
+                  <definition>Highly Restricted; where the species in only known from 1 BFMC</definition>
+               </term>
+            </vocab>
+         </term>
+         <term name="IBRA" id="d1e158a1900">
+            <example>“New England Tablelands”</example>
+            <definition>The name of the IRBA (Interim Biogeographic Regionalisation for Australia) Region within which the record occurs. This is based on IRBA version 6.1. Otherwise this field gives the value “N/A”</definition>
+            <definition>For more information on IBRA refer to:http://www.environment.gov.au/topics/land/national-reserve-system/science-maps-and-data/australias-bioregions-ibra</definition>
+         </term>
+         <term name="mechanicalHRDescription" id="d1e165a1900">
+            <example>“No slashing, trittering or tree removal”, “Slashing in winter, but no trittering or tree removal”</example>
+            <definition>Information on any restrictions on the use of Mechanical Hazard Reduction Techniques within 100 metres of the Occurrence record.  Otherwise this field gives the value “N/A”</definition>
+         </term>
+         <term name="potentialImpact" id="d1e170a1900">
+            <example>“Restrict Bush Fire”</example>
+            <definition>A categorisation of the information recorded in SpeciesFireDiscription into one of three broad categories related to the use of fire as a Hazard Reduction techniques using the following controlled vocabulary:</definition>
+            <vocab name="potentialImpact" id="d1e175a1900">
+               <term name="Exclude Bush Fire" id="d1e176a1900"/>
+               <term name="Restrict Bush Fire" id="d1e177a1900"/>
+               <term name="No Conditions" id="d1e178a1900"/>
+               <term name="Otherwise this field gives the value “N/A”" id="d1e179a1900"/>
+            </vocab>
+         </term>
+         <term name="profileID" id="d1e180a1900">
+            <example>“10484”</example>
+            <definition>The unique identifier for the related threatened species profile as stored in the Threatened Species Profile Database maintained by the Office of Environment and Heritage. Otherwise this field gives the value “N/A”</definition>
+         </term>
+         <term name="reserve" id="d1e186a1900">
+            <example>“Cocoparra National Park”, “Bedooba State Conservation Area”</example>
+            <definition>If the record occurs within a reserve (as defined in the National Parks and Wildlife Act 1974) this field gives the name of that reserve. If the field is marked “N/”A, this indicates that the record does not occur within a reserve. The following types of reserve are covered under this legalisation:</definition>
+            <definition>Note: This field does not give the name of reserves administered under the Forestry Act 2012. See the ‘floraReserve’ field for information on flora reserves.</definition>
+            <vocab name="reserve" id="d1e193a1900">
+               <term name="national park" id="d1e194a1900"/>
+               <term name="historic site" id="d1e195a1900"/>
+               <term name="state conservation area" id="d1e196a1900"/>
+               <term name="regional park" id="d1e197a1900"/>
+               <term name="karst conservation reserve" id="d1e198a1900"/>
+               <term name="nature reserve" id="d1e199a1900"/>
+               <term name="Aboriginal area" id="d1e200a1900"/>
+            </vocab>
+         </term>
+         <term name="speciesFireDescription" id="d1e201a1900">
+            <example>“No burning within 100 metres of streams”, “No burning from 1 August to 31 March, and no more than once every 2 years. Retain logs on ground.”, “No fire”</example>
+            <definition>Information on any restrictions on the use of Controlled Burning as a Hazard Reduction Technique within 100m of the Occurrence record. Otherwise this field gives the value “N/A”</definition>
+         </term>
+         <term name="stateForest" id="d1e206a1900">
+            <example>“Bom Bom State Forest”</example>
+            <definition>If the record occurs within a state forest (as defined in the Forestry Act 2012) this field gives the name of that state forest. If the field is marked “N/A” this indicates that the record does not occur within a state forest.</definition>
+         </term>
+         <term name="vulnerability" id="d1e211a1900">
+            <example>“VH”</example>
+            <definition>Vulnerability of the species to Hazard Reduction activities, based on a combination of Status on the Threatened Species Conservation Act and the species Geographic Extent as recorded in GeogExtent. Uses the following controlled vocabulary:</definition>
+            <definition>Otherwise this field gives the value “N/A”</definition>
+            <vocab name="vulnerability" id="d1e218a1900">
+               <term name="L" id="d1e219a1900">
+                  <definition>Low</definition>
+               </term>
+               <term name="M" id="d1e220a1900">
+                  <definition>Moderate</definition>
+               </term>
+               <term name="H" id="d1e221a1900">
+                  <definition>High</definition>
+               </term>
+               <term name="VH" id="d1e222a1900">
+                  <definition>Very High</definition>
+               </term>
+            </vocab>
+         </term>
+         <example>“BFMCS=8; GeogExtent=HR; MechanicalHRDescription= No slashing, trittering or tree removal; PotentialImpact=Exclude Bush Fire; ProfileID=10546; SpeciesFireDescritpion=No fire; Vulnerability=VH”</example>
+         <definition>A list (concatenated and separated) of additional measurements, facts, characteristics, or assertions about the record. Meant to provide a mechanism for structured content such as key-value pairs.</definition>
+         <definition>See the dynamicProperties table below for the full definitions of additional data supplied via this field</definition>
+      </term>
+      <term name="informationWithheld" id="d1e88a1900">
+         <example>“The following fields have been withheld and are only available to licensed or OEH staff: locality, locationRemarks, occurenceRemarks, recordedBy”</example>
+         <definition>Additional information that exists, but that has not been shared in the given record.</definition>
+      </term>
+      <term name="institutionCode" id="d1e93a1900">
+         <example>“NSW Office of Environment and Heritage”</example>
+         <definition>The name (or acronym) in use by the institution having custody of the object(s) or information referred to in the record.</definition>
+      </term>
+      <term name="ownerInstitutionCode" id="d1e98a1900">
+         <example>"Office of Environment and Heritage”, “Birds Australia”, “Australian Museum”</example>
+         <definition>The name (or acronym) in use by the institution having ownership of the object(s) or information referred to in the record.</definition>
+      </term>
+   </section>
+   <section name="Occurrence" id="d1e223a1900">
+      <term name="associatedReferences" id="d1e224a1900">
+         <example>"Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767.".</example>
+         <definition>A list (concatenated and separated) of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Occurrence.</definition>
+      </term>
+      <term name="austConservation" id="d1e229a1900">
+         <example>“CAMBA”</example>
+         <definition>The Legal Status of the species under the Commonwealth Environment Protection and Biodiversity Conservation Act 1999 (the EPBC Act), and Migratory Bird agreements (JAMBA, CAMBA and ROKAMBA). It uses the following controlled vocabulary:</definition>
+         <vocab name="austConservation" id="d1e234a1900">
+            <term name="CAMBA" id="d1e235a1900">
+               <definition>China-Australia Migratory Bird Agreement:</definition>
+               <definition>Refers to species listed in the Bilateral Agreement between the Government of Australia and the Government of the People’s Republic of China for the protection of Migratory Birds and their Environment (Part 5, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="Conservation Dependent" id="d1e240a1900">
+               <definition>A native species is eligible to be included in the conservation dependent category at a particular time if, at that time: (a) the species is the focus of a specific conservation program the cessation of which would result in the species becoming vulnerable, endangered or critically endangered; or (b) the following subparagraphs are satisfied: (i) the species is a species of fish; (ii) the species is the focus of a plan of management that provides for management actions necessary to stop the decline of, and support the recovery of, the species so that its chances of long term survival in nature are maximised; (iii) the plan of management is in force under a law of the Commonwealth or of a State or Territory; (iv) cessation of the plan of management would adversely affect the conservation status of the species (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="Critically Endangered" id="d1e243a1900">
+               <definition>A native species is eligible to be included in the critically endangered category at a particular time if, at that time, it is facing an extremely high risk of extinction in the wild in the immediate future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="Endangered" id="d1e246a1900">
+               <definition>A native species is eligible to be included in the endangered category at a particular time if, at that time: (a) it is not critically endangered; and (b) it is facing a very high risk of extinction in the wild in the near future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="JAMBA" id="d1e249a1900">
+               <definition>Japan-Australia Migratory Bird Agreement:</definition>
+               <definition>Refers to species listed in the Bilateral Agreement between the Government of Japan and the Government of Australia for the Protection of Migratory Birds and Birds in Danger of Extinction and their Environment (Part 5, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="ROKAMBA" id="d1e254a1900">
+               <definition>Republic of Korea-Australia Migratory Bird Agreement:</definition>
+               <definition>Refers to species listed in the Bilateral Agreement between the Government of Australia and the Government of the Republic of Korea for the protection of Migratory Birds and their Environment (Part 5, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="Key Threatening Process" id="d1e259a1900">
+               <definition>Refers to a key process that threatens or may threaten the survival, abundance or evolutionary development of a native species or ecological community (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="Vulnerable" id="d1e262a1900">
+               <definition>A native species is eligible to be included in the vulnerable category at a particular time if, at that time: (a) it is not critically endangered or endangered; and (b) it is facing a high risk of extinction in the wild in the medium‑term future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="Extinct" id="d1e265a1900">
+               <definition>A native species is eligible to be included in the extinct category at a particular time if, at that time, there is no reasonable doubt that the last member of the species has died (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+            </term>
+            <term name="Extinct in the Wild" id="d1e268a1900">
+               <definition>A native species is eligible to be included in the extinct in the wild category at a particular time if, at that time: (a) it is known only to survive in cultivation, in captivity or as a naturalised population well outside its past range; or (b) it has not been recorded in its known and/or expected habitat, at appropriate seasons, anywhere in its past range, despite exhaustive surveys over a time frame appropriate to its life cycle and form (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+            </term>
+         </vocab>
+      </term>
+      <term name="catalogNumber" id="d1e271a1900">
+         <example>“WD9884”</example>
+         <definition>An identifier (preferably unique) for the record within the data set or collection.</definition>
+      </term>
+      <term name="consequence" id="d1e276a1900">
+         <example>“Ma”</example>
+         <definition>Final assessment as to the impact of Hazard Reduction activities on a species, based on the following controlled vocabulary:</definition>
+         <vocab name="consequence" id="d1e281a1900">
+            <term name="Mi" id="d1e282a1900">
+               <definition>Minor</definition>
+            </term>
+            <term name="Mo" id="d1e283a1900">
+               <definition>Moderate</definition>
+            </term>
+            <term name="Ma" id="d1e284a1900">
+               <definition>Major</definition>
+            </term>
+            <term name="C" id="d1e285a1900">
+               <definition>Critical</definition>
+            </term>
+         </vocab>
+      </term>
+      <term name="establishmentMeans" id="d1e286a1900">
+         <example>“Introduced”</example>
+         <definition>The process by which the biological individual(s) represented in the Occurrence became established at the location. Based on the following controlled vocabulary:</definition>
+         <vocab name="establishmentMeans" id="d1e291a1900">
+            <term name="Alive in NSW, Native" id="d1e292a1900"/>
+            <term name="Extinct in NSW, Native" id="d1e293a1900"/>
+            <term name="Introduced" id="d1e294a1900"/>
+            <term name="Not Known from NSW" id="d1e295a1900"/>
+         </vocab>
+      </term>
+      <term name="estimateTypeCode" id="d1e296a1900">
+         <example>“At least”</example>
+         <definition>Refers to the accuracy of the NumberIndividuals field using the following controlled vocabulary:</definition>
+         <vocab name="estimateTypeCode" id="d1e301a1900">
+            <term name="At least" id="d1e302a1900"/>
+            <term name="Less than" id="d1e303a1900"/>
+            <term name="Greater than" id="d1e304a1900"/>
+            <term name="Estimate" id="d1e305a1900"/>
+            <term name="Exactly" id="d1e306a1900"/>
+         </vocab>
+      </term>
+      <term name="individualCount" id="d1e307a1900">
+         <example>"25"</example>
+         <definition>The number of individuals represented present at the time of the Occurrence.</definition>
+      </term>
+      <term name="individualID" id="d1e312a1900">
+         <example>“DJS019”</example>
+         <definition>An identifier for an individual or named group of individual organisms represented in the Occurrence. Meant to accommodate resampling of the same individual or group for monitoring purposes. May be a global unique identifier or an identifier specific to a data set.</definition>
+      </term>
+      <term name="observationType" id="d1e317a1900">
+         <example>“Nest/Roost”</example>
+         <definition>Refers to the mode of observation. Uses a controlled vocabulary as follows:</definition>
+         <vocab name="observationType" id="d1e322a1900">
+            <term name="Acoustic recording" id="d1e323a1900"/>
+            <term name="Bone, teeth or shell" id="d1e324a1900"/>
+            <term name="Burnt" id="d1e325a1900"/>
+            <term name="Burrow" id="d1e326a1900"/>
+            <term name="Camera" id="d1e327a1900"/>
+            <term name="Cat kill" id="d1e328a1900"/>
+            <term name="Crushed Cones" id="d1e329a1900"/>
+            <term name="Dead" id="d1e330a1900"/>
+            <term name="Dog kill" id="d1e331a1900"/>
+            <term name="Flora Record" id="d1e332a1900"/>
+            <term name="Floristics Record from Systematic Flora Survey" id="d1e333a1900"/>
+            <term name="Fox kill" id="d1e335a1900"/>
+            <term name="Hair, feathers or skin" id="d1e336a1900"/>
+            <term name="Heard call" id="d1e337a1900"/>
+            <term name="In raptor/owl pellet" id="d1e338a1900"/>
+            <term name="In scat" id="d1e339a1900"/>
+            <term name="Miscellaneous" id="d1e340a1900"/>
+            <term name="Nest/roost" id="d1e341a1900"/>
+            <term name="Not located" id="d1e342a1900"/>
+            <term name="Observed" id="d1e343a1900"/>
+            <term name="Observed and Heard call" id="d1e344a1900"/>
+            <term name="Road kill" id="d1e345a1900"/>
+            <term name="Scat" id="d1e347a1900"/>
+            <term name="Shot" id="d1e348a1900"/>
+            <term name="Stranding/beached" id="d1e349a1900"/>
+            <term name="Subfossil/Fossil Remains" id="d1e350a1900"/>
+            <term name="Tracks, scratchings" id="d1e351a1900"/>
+            <term name="Trapped or netted" id="d1e352a1900"/>
+            <term name="Ultrasonic recording" id="d1e353a1900"/>
+         </vocab>
+      </term>
+      <term name="occurrenceID" id="d1e354a1900">
+         <example>"urn:catalog: NSW Office of Environment and Heritage: BioNet Atlas of NSW Wildlife: WD9884".</example>
+         <definition>An identifier for the Occurrence (as opposed to a particular digital record of the occurrence).</definition>
+         <definition>In the absence of a persistent global unique identifier, construct one from a combination of identifiers in the record that will most closely make the occurrenceID globally unique.</definition>
+         <definition>For this service it will be constructed according to the recommended Darwin Core formula as follows:</definition>
+         <definition>"urn:catalog:[institutionCode]:[collectionCode]:[catalogNumber]</definition>
+      </term>
+      <term name="occurrenceRemarks" id="d1e365a1900">
+         <example>"found dead on road".</example>
+         <definition>Comments or notes about the Occurrence.</definition>
+      </term>
+      <term name="occurrenceStatus" id="d1e371a1900">
+         <example>"Present”</example>
+         <definition>A statement about the presence or absence of a Taxon at a Location. Based on the following controlled vocabulary:</definition>
+         <vocab name="occurrenceStatus" id="d1e376a1900">
+            <term name="Present" id="d1e377a1900"/>
+            <term name="Absent" id="d1e378a1900"/>
+         </vocab>
+      </term>
+      <term name="otherCatalogNumbers" id="d1e379a1900">
+         <example>"The Australian Museum, Sydney R10694", "Royal Botanic Gardens &amp; National Herbarium of NSW, Sydney NSW227432".</example>
+         <definition>A list (concatenated and separated) of previous or alternate fully qualified catalog numbers or other human-used identifiers for the same Occurrence, whether in the current or any other data set or collection.</definition>
+      </term>
+      <term name="PNFFilter" id="d1e384a1900">
+         <example>“Y”, “N”</example>
+         <definition>Indicator as to whether the record is relevant to the Private Native Forestry Code of Practice based on the following controlled vocabulary:</definition>
+         <definition>See http://www.epa.nsw.gov.au/pnf/CodeofPractice.htm for more details and to download the code of practice.</definition>
+         <vocab name="PNFFilter" id="d1e391a1900">
+            <term name="Y" id="d1e392a1900">
+               <definition>(Yes)</definition>
+            </term>
+            <term name="N" id="d1e393a1900">
+               <definition>(No)</definition>
+            </term>
+         </vocab>
+      </term>
+      <term name="populationName" id="d1e394a1900">
+         <example>"Emu population in the New South Wales North Coast Bioregion and Port Stephens local government area"</example>
+         <definition>Where the observation relates to the occurrence of a species within an endangered population as listed under the Threatened Species conservation Act 1995, the name of the threatened population will be given here</definition>
+      </term>
+      <term name="recordedBy" id="d1e399a1900">
+         <example>"Oliver P. Pearson; Anita K. Pearson"</example>
+         <definition>A list (concatenated and separated) of names of people, groups, or organizations responsible for recording the original Occurrence.</definition>
+      </term>
+      <term name="recordNumber" id="d1e404a1900">
+         <example>"OPP 7101"</example>
+         <definition>An identifier given to the Occurrence at the time it was recorded. Often serves as a link between field notes and an Occurrence record, such as a specimen collector's number.</definition>
+      </term>
+      <term name="reproductiveCondition" id="d1e409a1900">
+         <example>“- Not breeding,A Adult,D Distraction display,E Eggs,I Immature (subadult),M Nestling,N Nesting”</example>
+         <definition>The reproductive condition of the biological individual(s) represented in the Occurrence.</definition>
+         <term name="reproductiveConditionFlora" id="d1e414a1900">
+            <vocab name="reproductiveConditionFlora" id="d1e415a1900">
+               <term name="BU Flower Buds" id="d1e416a1900"/>
+               <term name="FL Flowering" id="d1e417a1900"/>
+               <term name="FR Fresh Fruit" id="d1e418a1900"/>
+               <term name="N No Breeding Evident" id="d1e419a1900"/>
+               <term name="OF Old Fruit" id="d1e420a1900"/>
+               <term name="SD Seeds" id="d1e421a1900"/>
+               <term name="SE Seedlings Present" id="d1e422a1900"/>
+               <term name="Y Breeding Present, but not specified" id="d1e423a1900"/>
+            </vocab>
+         </term>
+         <term name="reproductiveConditionFauna" id="d1e424a1900">
+            <vocab name="reproductiveConditionFauna" id="d1e425a1900">
+               <term name="Not breeding" id="d1e426a1900"/>
+               <term name="A Adult" id="d1e427a1900"/>
+               <term name="D Distraction display" id="d1e428a1900"/>
+               <term name="E Eggs" id="d1e429a1900"/>
+               <term name="G Gravid" id="d1e430a1900"/>
+               <term name="I Immature (subadult)" id="d1e431a1900"/>
+               <term name="J Juveniles" id="d1e432a1900"/>
+               <term name="L Lactating" id="d1e433a1900"/>
+               <term name="M Nestling" id="d1e434a1900"/>
+               <term name="N Nesting" id="d1e435a1900"/>
+               <term name="P Pregnant" id="d1e436a1900"/>
+               <term name="T Tadpoles" id="d1e438a1900"/>
+               <term name="Y Yes, but no details" id="d1e439a1900"/>
+            </vocab>
+         </term>
+      </term>
+      <term name="sex" id="d1e440a1900">
+         <example>"Female”, “Unknown”</example>
+         <definition>The sex of the biological individual(s) represented in the Occurrence based on the following controlled vocabulary:</definition>
+         <vocab name="sex" id="d1e445a1900">
+            <term name="Not Recorded" id="d1e446a1900"/>
+            <term name="Female" id="d1e447a1900"/>
+            <term name="Male" id="d1e448a1900"/>
+            <term name="Unknown" id="d1e449a1900"/>
+            <term name="Mixed sexes" id="d1e450a1900"/>
+         </vocab>
+      </term>
+      <term name="stateConservation" id="d1e451a1900">
+         <example>“Protected”, “Endangered, Category 2 Sensitive Species”</example>
+         <definition>The Legal Status of the species within NSW under the Threatened Species Conservation Act (TSC Act 1995), the National Parks and Wildlife Act 1974 (NPW Act 1974), the Fisheries Management Act 1994 No. 38 (FM Act 1994) and the Sensitive Species Data Policy (SSDP).</definition>
+         <vocab name="stateConservation" id="d1e456a1900">
+            <term name="Protected" id="d1e457a1900">
+               <definition>Refers to fauna not listed in Schedule 11 of the NPW Act 1974 or to flora listed in Schedule 13 of the NPW Act 1974</definition>
+            </term>
+            <term name="Vulnerable" id="d1e460a1900">
+               <definition>Refers to fauna and flora species that are likely to become endangered unless the circumstances &amp; factors threatening its survival or evolutionary development cease to operate (Schedule 2, TSC Act 1995).</definition>
+            </term>
+            <term name="Endangered" id="d1e463a1900">
+               <definition>Refers to fauna and flora species that are likely to become extinct in nature in NSW unless the circumstances and factors threatening its survival or evolutionary developments cease to operate; or, its numbers have been reduced to such a critical level, or its habitats have been so drastically reduced, that it is in immediate danger of extinction; or, it might already be extinct, but it is not presumed extinct (Schedule 1, part 1, TSC Act 1995).</definition>
+            </term>
+            <term name="Endangered Population" id="d1e466a1900">
+               <definition>Refers to a population where, in the opinion of the Scientific Committee, its numbers have been reduced to such a critical level, or its habitat has been so drastically reduced, that it is in immediate danger of extinction and it is not a population of a species already listed in Schedule 1, and: (a) it is disjunct and at or near the limit of its geographic range, or (b) it is or is likely to be genetically distinct, or (c) it is otherwise of significant conservation value. (Schedule 1, part 2, TSC Act 1995).</definition>
+            </term>
+            <term name="Presumed Extinct" id="d1e469a1900">
+               <definition>Refers to fauna and flora species that have not been located in nature during the preceding 50 years despite searching of known and likely habitats of that period (Schedule 1, part 4, TSC Act 1995).</definition>
+            </term>
+            <term name="Critically Endangered" id="d1e472a1900">
+               <definition>Refers to a species that is eligible to be listed as a critically endangered species if, in the opinion of the Scientific Committee, it is facing an extremely high risk of extinction in New South Wales in the immediate future, as determined in accordance with criteria prescribed by the regulations. (Schedule 1a, part 1, TSC Act 1995).</definition>
+            </term>
+            <term name="Category 2 sensitive species" id="d1e475a1900">
+               <definition>Refers to species for which Atlas sightings’ coordinates will be supplied denatured to public web applications, and denatured to licensed clients. Such species are classed as highly sensitive, and provision of precise locations would subject the species to high risk from threats such as disturbance and collection.</definition>
+            </term>
+            <term name="Category 3 sensitive species" id="d1e478a1900">
+               <definition>Refers to species for which sightings’ coordinates will be supplied denatured to public web applications, but supplied ‘as-held’ to licensed clients. Current denaturing specifications are set out in Appendix 2. Such species are classed as of medium sensitivity, and provision of precise locations would subject the species to medium risk from threats such as collection/deliberate damage.</definition>
+            </term>
+         </vocab>
+      </term>
+      <term name="status" id="d1e481a1900">
+         <example>“Suspect”, “Rejected as certainly incorrect”</example>
+         <definition>The status of the record with respect to its validity as per the following controlled vocabulary:</definition>
+         <vocab name="status" id="d1e486a1900">
+            <term name="Accepted as valid from quarantine" id="d1e487a1900"/>
+            <term name="Invalid, in quarantine" id="d1e488a1900"/>
+            <term name="Rejected as certainly incorrect" id="d1e489a1900"/>
+            <term name="Suspect" id="d1e490a1900"/>
+            <term name="Vagrant or Escaped Animal or Planted Specimen" id="d1e491a1900"/>
+            <term name="Valid and accepted without modification" id="d1e492a1900"/>
+            <term name="Valid record from population that is no longer extant"
+                  id="d1e493a1900"/>
+         </vocab>
+      </term>
+   </section>
+   <section name="Event" id="d1e494a1900">
+      <term name="eventDate" id="d1e495a1900">
+         <example>“1978-06-01/1978-06-28”</example>
+         <definition>The date-time or interval during which an Event occurred. For occurrences, this is the date-time when the event was recorded.</definition>
+         <definition>As per recommended best practice encoded using ISO 8601:2004(E).</definition>
+      </term>
+      <term name="eventID" id="d1e502a1900">
+         <example>“CPXEI0000001”</example>
+         <definition>The unique key assigned to a Census. A Census is a time distinct assessment conducted within a survey at a designated site.</definition>
+      </term>
+      <term name="eventRemarks" id="d1e507a1900">
+         <example>"after the recent rains the river is nearly at flood stage".</example>
+         <definition>Comments or notes about the Event.</definition>
+      </term>
+      <term name="eventTime" id="d1e512a1900">
+         <example>“10:00:00/10:05:00”</example>
+         <definition>The time or interval during which an Event occurred.</definition>
+         <definition>As per recommended best practice encoded using ISO 8601:2004(E).</definition>
+      </term>
+      <term name="habitat" id="d1e519a1900">
+         <example>“Sod grassland”, “Open tussock grassland”</example>
+         <definition>A category or description of the habitat in which the Event occurred as per the following controlled vocabulary:</definition>
+         <vocab name="habitat" id="d1e524a1900">
+            <term name="Closed chenopod shrubland" id="d1e525a1900"/>
+            <term name="Isolated chenopod shrub" id="d1e526a1900"/>
+            <term name="Isloated clump of chenopod shrubs" id="d1e527a1900"/>
+            <term name="Chenopod shrubland" id="d1e528a1900"/>
+            <term name="Open chenopod shrubland" id="d1e529a1900"/>
+            <term name="Sparse chenopod shrubland" id="d1e530a1900"/>
+            <term name="Closed sod grassland" id="d1e531a1900"/>
+            <term name="Isolated sod grasses" id="d1e532a1900"/>
+            <term name="Isolated clump of sod grasses" id="d1e533a1900"/>
+            <term name="Sod grassland" id="d1e534a1900"/>
+            <term name="Open sod grassland" id="d1e535a1900"/>
+            <term name="Sparse sod grassland" id="d1e537a1900"/>
+            <term name="Closed fernland" id="d1e538a1900"/>
+            <term name="Isolated ferns" id="d1e539a1900"/>
+            <term name="Isolated clumps of ferns" id="d1e540a1900"/>
+            <term name="Fernland" id="d1e541a1900"/>
+            <term name="Open fernland" id="d1e542a1900"/>
+            <term name="Sparse fernland" id="d1e543a1900"/>
+            <term name="Closed forbland" id="d1e544a1900"/>
+            <term name="Isolated forbs" id="d1e545a1900"/>
+            <term name="Isolated clumps of forbs" id="d1e546a1900"/>
+            <term name="Forbland" id="d1e547a1900"/>
+            <term name="Open forbland" id="d1e549a1900"/>
+            <term name="Sparse forbland" id="d1e550a1900"/>
+            <term name="Closed tussock grassland" id="d1e551a1900"/>
+            <term name="Isolated tussock grasses" id="d1e552a1900"/>
+            <term name="Isolated clump of tussock grasses" id="d1e553a1900"/>
+            <term name="Tussock grassland" id="d1e554a1900"/>
+            <term name="Open tussock grassland" id="d1e555a1900"/>
+            <term name="Sparse tussock grassland" id="d1e556a1900"/>
+            <term name="Closed hummock grassland" id="d1e557a1900"/>
+            <term name="Isolated hummock grass" id="d1e558a1900"/>
+            <term name="Isolated clump of hummock grasses" id="d1e559a1900"/>
+            <term name="Hummock grassland" id="d1e561a1900"/>
+            <term name="Open hummock grassland" id="d1e562a1900"/>
+            <term name="Sparse grassland" id="d1e563a1900"/>
+            <term name="Closed vineland" id="d1e564a1900"/>
+            <term name="Isolated vines" id="d1e565a1900"/>
+            <term name="Isolated clump of vines" id="d1e566a1900"/>
+            <term name="Vineland" id="d1e567a1900"/>
+            <term name="Open vineland" id="d1e568a1900"/>
+            <term name="Sparse vineland" id="d1e569a1900"/>
+            <term name="Closed mallee forest" id="d1e570a1900"/>
+            <term name="Isolated mallee trees" id="d1e571a1900"/>
+            <term name="Isolated clump of mallee trees" id="d1e573a1900"/>
+            <term name="Open mallee forest" id="d1e574a1900"/>
+            <term name="Mallee woodland" id="d1e575a1900"/>
+            <term name="Open mallee woodland" id="d1e576a1900"/>
+            <term name="Closed lichenland" id="d1e577a1900"/>
+            <term name="Isolated lichens" id="d1e578a1900"/>
+            <term name="Isolated clup of lichens" id="d1e579a1900"/>
+            <term name="Lichenland" id="d1e580a1900"/>
+            <term name="Open lichenland" id="d1e581a1900"/>
+            <term name="Sparse lichenland" id="d1e582a1900"/>
+            <term name="Beach" id="d1e583a1900"/>
+            <term name="Billabong or Swamp" id="d1e585a1900"/>
+            <term name="Coastal Waters" id="d1e586a1900"/>
+            <term name="Estuary" id="d1e587a1900"/>
+            <term name="Freshwater Lake" id="d1e588a1900"/>
+            <term name="Grazing Land" id="d1e589a1900"/>
+            <term name="Saltwater Lake" id="d1e590a1900"/>
+            <term name="Mudflat" id="d1e591a1900"/>
+            <term name="Open Ocean" id="d1e592a1900"/>
+            <term name="Crop Land" id="d1e593a1900"/>
+            <term name="Rock Outcrop" id="d1e594a1900"/>
+            <term name="Stream or River" id="d1e595a1900"/>
+            <term name="Urban" id="d1e597a1900"/>
+            <term name="Cave" id="d1e598a1900"/>
+            <term name="Closed rushland" id="d1e599a1900"/>
+            <term name="Isolated rushes" id="d1e600a1900"/>
+            <term name="Isolated clump of rushes" id="d1e601a1900"/>
+            <term name="Rushland" id="d1e602a1900"/>
+            <term name="Open rushland" id="d1e603a1900"/>
+            <term name="Sparse rushland" id="d1e604a1900"/>
+            <term name="Closed shrubland" id="d1e605a1900"/>
+            <term name="Isolated shrubs" id="d1e606a1900"/>
+            <term name="Isolated clump of shrubs" id="d1e607a1900"/>
+            <term name="Shrubland" id="d1e609a1900"/>
+            <term name="Open shrubland" id="d1e610a1900"/>
+            <term name="Sparse shrubland" id="d1e611a1900"/>
+            <term name="Closed forest" id="d1e612a1900"/>
+            <term name="Isolated trees" id="d1e613a1900"/>
+            <term name="Isolated clump of trees" id="d1e614a1900"/>
+            <term name="Open forest" id="d1e615a1900"/>
+            <term name="Woodland" id="d1e616a1900"/>
+            <term name="Open woodland" id="d1e617a1900"/>
+            <term name="Closed sedgeland" id="d1e618a1900"/>
+            <term name="Isolated sedges" id="d1e619a1900"/>
+            <term name="Isolated clump of sedges" id="d1e621a1900"/>
+            <term name="Sedgeland" id="d1e622a1900"/>
+            <term name="Open sedgeland" id="d1e623a1900"/>
+            <term name="Sparse sedgeland" id="d1e624a1900"/>
+            <term name="Closed liverwortland" id="d1e625a1900"/>
+            <term name="Isolated liverworts" id="d1e626a1900"/>
+            <term name="Isolated clump of liverworts" id="d1e627a1900"/>
+            <term name="Liverwortland" id="d1e628a1900"/>
+            <term name="Open liverwortland" id="d1e629a1900"/>
+            <term name="Sparse liverwortland" id="d1e630a1900"/>
+            <term name="Closed mossland" id="d1e631a1900"/>
+            <term name="Isolated mosses" id="d1e633a1900"/>
+            <term name="Isolated clump of mosses" id="d1e634a1900"/>
+            <term name="Mossland" id="d1e635a1900"/>
+            <term name="Open mossland" id="d1e636a1900"/>
+            <term name="Sparse mossland" id="d1e637a1900"/>
+            <term name="Closed mallee shrubland" id="d1e638a1900"/>
+            <term name="Isolated mallee shrubs" id="d1e639a1900"/>
+            <term name="Isolated clump of mallee shrubs" id="d1e640a1900"/>
+            <term name="Mallee shrubland" id="d1e641a1900"/>
+            <term name="Open mallee shrubland" id="d1e642a1900"/>
+            <term name="Sparse mallee shrubland" id="d1e643a1900"/>
+            <term name="Closed heathland" id="d1e645a1900"/>
+            <term name="Isolated heath shrub" id="d1e646a1900"/>
+            <term name="Isolated clump of heath shrubs" id="d1e647a1900"/>
+            <term name="Heathland" id="d1e648a1900"/>
+            <term name="Open heath" id="d1e649a1900"/>
+            <term name="Sparse heath" id="d1e650a1900"/>
+         </vocab>
+      </term>
+      <term name="samplingEffort" id="d1e651a1900">
+         <example>“60.00 Trap Nights”</example>
+         <definition>The amount of effort expended during an Event.</definition>
+      </term>
+      <term name="samplingProtocol" id="d1e656a1900">
+         <example>“20 by 20 Vegetation Plot (old type)”, “Bat Ultrasound”, “Cage Trapping”</example>
+         <definition>The name of, reference to, or description of the method or protocol used during an Event.</definition>
+      </term>
+   </section>
+   <section name="Dcterms:Location" id="d1e661a1900">
+      <term name="coordinatePrecision" id="d1e662a1900">
+         <example>"1", “2”, “9”</example>
+         <definition>A decimal representation of the precision of the coordinates given in the decimalLatitude and decimalLongitude. For example, 2 for coordinates accurate to two decimal places.</definition>
+         <definition>Note: be careful with coordinates converted from D:M:S they can have a lot of decimal places that are not warranted by the original coordinates</definition>
+      </term>
+      <term name="coordinateUncertaintyInMeters" id="d1e669a1900">
+         <example>"30.0000"</example>
+         <definition>The horizontal distance (in meters) from the given decimalLatitude and decimalLongitude describing the smallest circle within which the Location is likely to occur.</definition>
+         <definition>For example a value of 100 would mean that the location is accurate to the nearest 100 metres.</definition>
+      </term>
+      <term name="country" id="d1e676a1900">
+         <example>"Australia”</example>
+         <definition>The name of the country or major administrative unit in which the Location occurs. Recommended best practice is to use a controlled vocabulary such as the Getty Thesaurus of Geographic Names.</definition>
+      </term>
+      <term name="countryCode" id="d1e681a1900">
+         <example>"AU” for Australia</example>
+         <definition>The standard code for the country in which the Location occurs. Recommended best practice is to use ISO 3166-1-alpha-2 country codes.</definition>
+      </term>
+      <term name="county" id="d1e686a1900">
+         <example>"Clarence Valley”, “Dubbo”, “Tumut”</example>
+         <definition>The full, unabbreviated name of the next smaller administrative region than stateProvince (county, shire, department, etc.) in which the Location occurs. In the context of NSW, the Local Government Area. Where the record does not occur in a NSW LGA this field give the value “N/A”</definition>
+      </term>
+      <term name="decimalLatitude" id="d1e691a1900">
+         <example>"-41.0983423".</example>
+         <definition>The geographic latitude (in decimal degrees, using the spatial reference system given in geodeticDatum) of the geographic center of a Location. Positive values are north of the Equator, negative values are south of it. Legal values lie between -90 and 90, inclusive.</definition>
+      </term>
+      <term name="decimalLongitude" id="d1e696a1900">
+         <example>"-121.1761111".</example>
+         <definition>The geographic longitude (in decimal degrees, using the spatial reference system given in geodeticDatum) of the geographic center of a Location. Positive values are east of the Greenwich Meridian, negative values are west of it. Legal values lie between -180 and 180, inclusive.</definition>
+      </term>
+      <term name="easting" id="d1e701a1900">
+         <example>“691573”</example>
+         <definition>The reference in metres, measured east of an arbitrary origin (also referred to as the x-coordinate). The Easting provided in Atlas reports has been calculated from the Latitude and Longitude values. Data provided in MGA.</definition>
+      </term>
+      <term name="geodeticDatum" id="d1e706a1900">
+         <example>“GDA94”</example>
+         <definition>The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates given in decimalLatitude and decimalLongitude are based. Recommended best practice is to use the European Petroleum Survey Group (EPSG) code as a controlled vocabulary to provide an SRS, if known. Otherwise use a controlled vocabulary for the name or code of the geodetic datum, if known. Otherwise use a controlled vocabulary for the name or code of the ellipsoid, if known. If none of these is known, use the value "unknown".</definition>
+      </term>
+      <term name="georeferenceProtocol" id="d1e711a1900">
+         <example>“GPS”</example>
+         <definition>A description or reference to the methods used to determine the spatial footprint, coordinates, and uncertainties.</definition>
+         <definition>In the context of this data set, it will indicate if GPS was used to determine the location.</definition>
+      </term>
+      <term name="locality" id="d1e718a1900">
+         <example>“Hawkshead Road, 1km W of Hereford Park. Specified Map No: 8824”</example>
+         <definition>The specific description of the place. Less specific geographic information can be provided in other geographic terms (higherGeography, continent, country, stateProvince, county, municipality, waterBody, island, islandGroup). This term may contain information modified from the original to correct perceived errors or standardize the description.</definition>
+      </term>
+      <term name="locationID" id="d1e724a1900">
+         <example>“7457-HO”, “5224-035”</example>
+         <definition>An identifier for the set of location information (data associated with dcterms:Location). May be a global unique identifier or an identifier specific to the data set.</definition>
+      </term>
+      <term name="locationRemarks" id="d1e729a1900">
+         <example>“Partially cleared and regenerated.”</example>
+         <definition>Comments or notes about the Location.</definition>
+      </term>
+      <term name="mapSheetNumber" id="d1e734a1900">
+         <example>“8824 – BEGA”</example>
+         <definition>The Australian Topographic Map Sheet number for the map which covers the location of the record.  Where the record does not overlap a valid NSW mapsheet this field gives the value “N/A”</definition>
+      </term>
+      <term name="maximumElevationInMeters" id="d1e739a1900">
+         <example>"200".</example>
+         <definition>The upper limit of the range of elevation (altitude, usually above sea level), in meters.</definition>
+      </term>
+      <term name="minimumElevationInMeters" id="d1e744a1900">
+         <example>"100".</example>
+         <definition>The lower limit of the range of elevation (altitude, usually above sea level), in meters.</definition>
+      </term>
+      <term name="northing" id="d1e749a1900">
+         <example>“6121614”</example>
+         <definition>The reference in metres, measured north of an arbitrary origin (also referred to as the y-coordinate). The Northing provided in Atlas reports has been calculated from the Latitude and Longitude values. Data provided in Map Grid of Australia (MGA).</definition>
+      </term>
+      <term name="stateProvince" id="d1e754a1900">
+         <example>"NSW”</example>
+         <definition>The name of the next smaller administrative region than country (state, province, canton, department, region, etc.) in which the Location occurs.  Where the record does not overlap a valid Australian state, this field gives the value “N/A”</definition>
+      </term>
+      <term name="zone" id="d1e759a1900">
+         <example>“55”</example>
+         <definition>A 6° band of longitude, divided according to the Universal Transverse Mercator (UTM) coordinate system. NSW Is divided into 4 Zones; Zone 56 is 150° –156° longitude, which encompasses much of eastern NSW. Zone 55 is 144°–150° longitude. Zone 54 is 138°–144° longitude, encompassing most of Western NSW. Zone 57 covers Lord Howe Island. The Zone in Atlas reports has been calculated from the Latitude and Longitude values. Data provided in MGA.</definition>
+      </term>
+   </section>
+   <section name="Taxon" id="d1e764a1900">
+      <term name="class" id="d1e765a1900">
+         <example>"Aves", "Equisetopsida"</example>
+         <definition>The full scientific name of the class in which the taxon is classified.</definition>
+      </term>
+      <term name="family" id="d1e770a1900">
+         <example>"Cacatuidae", "Fabaceae"</example>
+         <definition>The full scientific name of the family in which the taxon is classified.</definition>
+      </term>
+      <term name="genus" id="d1e775a1900">
+         <example>"Callocephalon", "Acacia"</example>
+         <definition>The full scientific name of the genus in which the taxon is classified.</definition>
+      </term>
+      <term name="infraspecificEpithet" id="d1e780a1900">
+         <example>"latifolia", "parviflora"</example>
+         <definition>The name of the lowest or terminal infraspecific epithet of the scientificName, excluding any rank designation.</definition>
+      </term>
+      <term name="kingdom" id="d1e785a1900">
+         <example>"Plantae",</example>
+         <definition>One of the following three values:</definition>
+         <vocab name="kingdom" id="d1e790a1900">
+            <term name="Animalia" id="d1e791a1900"/>
+            <term name="Plantae" id="d1e792a1900"/>
+            <term name="Fungi" id="d1e793a1900"/>
+         </vocab>
+      </term>
+      <term name="nomenclaturalCode" id="d1e794a1900">
+         <example>"ICBN", "ICZN"</example>
+         <definition>The nomenclatural code (or codes in the case of an ambiregnal name) under which the scientificName is constructed. Recommended best practice is to use a controlled vocabulary.</definition>
+      </term>
+      <term name="order" id="d1e799a1900">
+         <example>"Psittaciformes"</example>
+         <definition>The full scientific name of the order in which the taxon is classified.</definition>
+      </term>
+      <term name="scientificName" id="d1e804a1900">
+         <example>"Callocephalon fimbriatum”, “Acacia pycnantha”</example>
+         <definition>The full scientific name, with authorship and date information if known. When forming part of an identification, this should be the name in lowest level taxonomic rank that can be determined.</definition>
+      </term>
+      <term name="scientificNameAuthorship" id="d1e809a1900">
+         <example>“(Grant, 1803)”</example>
+         <definition>The authorship information for the scientificName formatted according to the conventions of the applicable nomenclaturalCode.</definition>
+      </term>
+      <term name="scientificNameID" id="d1e814a1900">
+         <example>“0268”</example>
+         <definition>An identifier for the nomenclatural (not taxonomic) details of a scientific name.</definition>
+      </term>
+      <term name="sortOrder" id="d1e819a1900">
+         <example>“97”</example>
+         <definition>An integer used to sort species in a sensible taxonomic order</definition>
+      </term>
+      <term name="specificEpithet" id="d1e825a1900">
+         <example>"fimbriatum", "pycnantha"</example>
+         <definition>The name of the first or species epithet of the scientificName.</definition>
+      </term>
+      <term name="taxonRank" id="d1e830a1900">
+         <example>"Subspecies", "Species", "Genus".</example>
+         <definition>The taxonomic rank of the most specific name in the scientificName.</definition>
+      </term>
+      <term name="vernacularName" id="d1e835a1900">
+         <example>"Gang-gang Cockatoo”, “Golden Wattle”</example>
+         <definition>A common or vernacular name.</definition>
+      </term>
+   </section>
+   <section name="MeasurementOrFact" id="d1e840a1900">
+      <intro>As discussed in the overview, additional measurements associated with a given sighting record will be supplied via a linked table using Darwin Core MeasurementOrFact. Each measurement will be linked back to the sighting record using the occurrenceID with the table below documenting the Darwin Core fields that will be made available via the species sighting web service.</intro>
+      <term name="measurementType" id="d1e843a1900">
+         <term name="Aspect" id="d1e861a1900">
+            <example>“30”</example>
+            <definition>The aspect of the location where the observations was made measured in degrees clockwise from true North.</definition>
+         </term>
+         <term name="Microhabitat" id="d1e866a1900">
+            <example>“In burrow”</example>
+            <definition>The small-scale habitat (e.g. on ground, or in tree) as per the following controlled vocabulary:</definition>
+            <vocab name="Microhabitat" id="d1e871a1900">
+               <term name="Flying above canopy" id="d1e872a1900"/>
+               <term name="In/on bridge" id="d1e873a1900"/>
+               <term name="In building" id="d1e874a1900"/>
+               <term name="Crevice in rock" id="d1e875a1900"/>
+               <term name="Crevice in log" id="d1e876a1900"/>
+               <term name="Farm/fire dam" id="d1e877a1900"/>
+               <term name="In dead tree (stag)" id="d1e878a1900"/>
+               <term name="Edge of water" id="d1e879a1900"/>
+               <term name="In/on post or stump" id="d1e880a1900"/>
+               <term name="Flying within canopy" id="d1e881a1900"/>
+               <term name="On ground" id="d1e882a1900"/>
+               <term name="High shrub" id="d1e884a1900"/>
+               <term name="In burrow" id="d1e885a1900"/>
+               <term name="In cave" id="d1e886a1900"/>
+               <term name="In grass" id="d1e887a1900"/>
+               <term name="In tree hollow" id="d1e888a1900"/>
+               <term name="In litter" id="d1e889a1900"/>
+               <term name="In reeds" id="d1e890a1900"/>
+               <term name="In soil" id="d1e891a1900"/>
+               <term name="In Tree" id="d1e892a1900"/>
+               <term name="In water" id="d1e893a1900"/>
+               <term name="Lower canopy" id="d1e894a1900"/>
+               <term name="Low shrub" id="d1e896a1900"/>
+               <term name="Mid canopy" id="d1e897a1900"/>
+               <term name="On (beach) sand" id="d1e898a1900"/>
+               <term name="On fence" id="d1e899a1900"/>
+               <term name="On log" id="d1e900a1900"/>
+               <term name="On rock" id="d1e901a1900"/>
+               <term name="Over water" id="d1e902a1900"/>
+               <term name="Power line" id="d1e903a1900"/>
+               <term name="On road" id="d1e904a1900"/>
+               <term name="On trunk" id="d1e905a1900"/>
+               <term name="Under bark" id="d1e906a1900"/>
+               <term name="Upper canopy" id="d1e908a1900"/>
+               <term name="Undergrowth" id="d1e909a1900"/>
+               <term name="Under log" id="d1e910a1900"/>
+               <term name="Under rock" id="d1e911a1900"/>
+               <term name="Under iron" id="d1e912a1900"/>
+               <term name="Waterhole" id="d1e913a1900"/>
+            </vocab>
+         </term>
+         <term name="Slope" id="d1e914a1900">
+            <example>“15”</example>
+            <definition>The slope of the location where the observation was made measured in degrees from horizontal</definition>
+         </term>
+         <term name="SurfaceGeology" id="d1e919a1900">
+            <example>“Basalt”</example>
+            <definition>The surface geology of the location where the observation was made as per the following controlled vocabulary:</definition>
+            <vocab name="SurfaceGeology" id="d1e924a1900">
+               <term name="Adamellite" id="d1e925a1900"/>
+               <term name="Agglomerate" id="d1e926a1900"/>
+               <term name="Altered Substrate Materials" id="d1e927a1900"/>
+               <term name="Amphibolite" id="d1e928a1900"/>
+               <term name="Andesite" id="d1e929a1900"/>
+               <term name="Aplite" id="d1e930a1900"/>
+               <term name="Arkose" id="d1e931a1900"/>
+               <term name="Ash" id="d1e932a1900"/>
+               <term name="Basalt" id="d1e933a1900"/>
+               <term name="Breccia" id="d1e934a1900"/>
+               <term name="Clay" id="d1e935a1900"/>
+               <term name="Chert" id="d1e937a1900"/>
+               <term name="Coal" id="d1e938a1900"/>
+               <term name="Conglomerate" id="d1e939a1900"/>
+               <term name="Coffee Rock" id="d1e940a1900"/>
+               <term name="Diorite" id="d1e941a1900"/>
+               <term name="Dolomite" id="d1e942a1900"/>
+               <term name="Dolerite" id="d1e943a1900"/>
+               <term name="Eolianite" id="d1e944a1900"/>
+               <term name="Ferricrete" id="d1e945a1900"/>
+               <term name="Gabbro" id="d1e946a1900"/>
+               <term name="Granodiorite" id="d1e947a1900"/>
+               <term name="Greenstone" id="d1e949a1900"/>
+               <term name="Granite" id="d1e950a1900"/>
+               <term name="Gneiss" id="d1e951a1900"/>
+               <term name="Gravel" id="d1e952a1900"/>
+               <term name="Graywacke" id="d1e953a1900"/>
+               <term name="Hornfels" id="d1e954a1900"/>
+               <term name="Unidentified igneous rock" id="d1e955a1900"/>
+               <term name="Jasper" id="d1e956a1900"/>
+               <term name="Calcrete" id="d1e957a1900"/>
+               <term name="Calcareous sand" id="d1e958a1900"/>
+               <term name="Laterite" id="d1e959a1900"/>
+               <term name="Limestone" id="d1e961a1900"/>
+               <term name="Marble" id="d1e962a1900"/>
+               <term name="Unidentifed metamorphic rock" id="d1e963a1900"/>
+               <term name="Marl" id="d1e964a1900"/>
+               <term name="Monzonite" id="d1e965a1900"/>
+               <term name="Mudstone" id="d1e966a1900"/>
+               <term name="No Observation Possible" id="d1e967a1900"/>
+               <term name="Not Recorded" id="d1e968a1900"/>
+               <term name="Obsidian" id="d1e969a1900"/>
+               <term name="Other" id="d1e970a1900"/>
+               <term name="Phyllite" id="d1e971a1900"/>
+               <term name="Quartz porphyry" id="d1e973a1900"/>
+               <term name="Quartzite" id="d1e974a1900"/>
+               <term name="Rhyolite" id="d1e975a1900"/>
+               <term name="Sand" id="d1e976a1900"/>
+               <term name="Sandstone" id="d1e977a1900"/>
+               <term name="Silcrete" id="d1e978a1900"/>
+               <term name="Sand/Clay/Alluvium" id="d1e979a1900"/>
+               <term name="Unidentified sedimentary rock" id="d1e980a1900"/>
+               <term name="Shale" id="d1e981a1900"/>
+               <term name="Shale/Sandstone" id="d1e982a1900"/>
+               <term name="Siltstone" id="d1e983a1900"/>
+               <term name="Scoria" id="d1e985a1900"/>
+               <term name="Slate" id="d1e986a1900"/>
+               <term name="Serpentine" id="d1e987a1900"/>
+               <term name="Schist" id="d1e988a1900"/>
+               <term name="Syenite" id="d1e989a1900"/>
+               <term name="Trachyte" id="d1e990a1900"/>
+               <term name="Tuff" id="d1e991a1900"/>
+               <term name="Unidentified Unconsolidated Substrate Material" id="d1e992a1900"/>
+               <term name="Unknown" id="d1e993a1900"/>
+               <term name="Silt" id="d1e994a1900"/>
+            </vocab>
+         </term>
+         <example>“Aspect”</example>
+         <definition>The nature of the measurement, fact, characteristic, or assertion. Recommended best practice is to use a controlled vocabulary.</definition>
+         <definition>See the meaurementType table below for the full list of measurements supplied via the Species Sightings Web Service</definition>
+      </term>
+      <term name="measurementValue" id="d1e850a1900">
+         <example>“30”</example>
+         <definition>The value of the measurement, fact, characteristic, or assertion.</definition>
+      </term>
+      <term name="measurementUnit" id="d1e855a1900">
+         <example>“degrees clockwise from true North”</example>
+         <definition>The units associated with the measurementValue. Recommended best practice is to use the International System of Units (SI).</definition>
+      </term>
+   </section>
+</doc>

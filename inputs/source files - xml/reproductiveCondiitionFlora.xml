@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <vocab name="reproductiveConditionFlora">
+        <term name="BU Flower Buds"></term>
+        <term name="FL Flowering"></term>
+        <term name="FR Fresh Fruit"></term>
+        <term name="N No Breeding Evident"></term>
+        <term name="OF Old Fruit"></term>
+        <term name="SD Seeds"></term>
+        <term name="SE Seedlings Present"></term>
+        <term name="Y Breeding Present, but not specified"></term>
+    </vocab>
+</doc>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/">
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/consequence">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <rdfs:label xml:lang="en">Bionet consequence vocabulary (RB test v3)</rdfs:label>
+      <dcterms:title xml:lang="en">Bionet consequence vocabulary (RB test v3)</dcterms:title>
+      <dcterms:description xml:lang="en">The consequence vocabulary is used by Bionet to populate the consequence field within the Occurrence section of the Bionet Species Sighting Standard</dcterms:description>
+      <dcterms:description xml:lang="en">For more information about the Bionet Species Sighting Standard, see https://data.bionet.nsw.gov.au/resources/bionet/BioNet-species-sighting-web-service-data-standard.pdf</dcterms:description>
+      <dcterms:subject xml:lang="en">species</dcterms:subject>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/consequence/d1e282a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/consequence/d1e283a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/consequence/d1e284a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/consequence/d1e285a1900"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/consequence/d1e282a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Mi</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/consequence"/>
+      <skos:definition xml:lang="en">Minor</skos:definition>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/consequence/d1e283a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Mo</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/consequence"/>
+      <skos:definition xml:lang="en">Moderate</skos:definition>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/consequence/d1e284a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Ma</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/consequence"/>
+      <skos:definition xml:lang="en">Major</skos:definition>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/consequence/d1e285a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">C</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/consequence"/>
+      <skos:definition xml:lang="en">Critical</skos:definition>
+   </rdf:Description>
+
+</rdf:RDF>

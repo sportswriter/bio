@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/">
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/status">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <rdfs:label xml:lang="en">Bionet status vocabulary (RB test v3)</rdfs:label>
+      <dcterms:title xml:lang="en">Bionet status vocabulary (RB test v3)</dcterms:title>
+      <dcterms:description xml:lang="en">The status vocabulary is used by Bionet to populate the status field within the Occurrence section of the Bionet Species Sighting Standard</dcterms:description>
+      <dcterms:description xml:lang="en">For more information about the Bionet Species Sighting Standard, see https://data.bionet.nsw.gov.au/resources/bionet/BioNet-species-sighting-web-service-data-standard.pdf</dcterms:description>
+      <dcterms:subject xml:lang="en">species</dcterms:subject>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status/d1e487a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status/d1e488a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status/d1e489a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status/d1e490a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status/d1e491a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status/d1e492a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status/d1e493a1900"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/status/d1e487a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Accepted as valid from quarantine</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/status/d1e488a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Invalid, in quarantine</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/status/d1e489a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Rejected as certainly incorrect</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/status/d1e490a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Suspect</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/status/d1e491a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Vagrant or Escaped Animal or Planted Specimen</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/status/d1e492a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Valid and accepted without modification</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/status/d1e493a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Valid record from population that is no longer extant</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/status"/>
+   </rdf:Description>
+
+</rdf:RDF>

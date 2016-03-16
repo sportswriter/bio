@@ -1,0 +1,57 @@
+Notes on skos:narrowMatch relationships - poolparty & Linked data API
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+uploaded austConservation and bionetSchema, and linked the projects in PP.  Didn't link at concept level via the PP interface.
+In austConservation, under Occurrence, I can see the number of NTs, but they don't display in the user interface.  Downloaded the schema
+file and saw nothing much.  
+Made narrow links via the UI & downloaded the file again. ==> in the XSL, changed narrower to narrowMatch (see downloaded
+example below)
+Deleted the concept scheme & re-uploaded.  Can see the narrowMatch terms but they show 'unknown source'
+
+See related comment from Richard here - https://jira.ands.org.au/browse/SD-7519?focusedCommentId=67760&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-67760
+"open the linked project, and examine the "URI Generation" setting in the bottom right of the view. The concept's IRI must begin the same way as the 
+URI pattern shown there."
+
+https://editor.vocabs.ands.org.au/Bionet/schema/
+https://editor.vocabs.ands.org.au/Bionet/vocab/austConservation
+
+Recreated the two projects, using the URI patterns above, and uploaded the vocab file.  
+Linked the schema project to the vocab project prior to uploading the schema file.
+Uploaded the schema file, navigated to austConservation (in the schema project), and could see correctly linked narrower matching concepts. 
+i.e. I didn't have to manually make the links via the user interface.  I clicked on one of the narrow matching hyperlinks, but
+access was denied.  I opened austConservation & checked that it is linked from that side.  Then I tried making both projects public.  They display ok
+but can't get the concepts to display.
+
+I creaated two new vocabs in the ANDS portal
+https://demo.ands.org.au/vocabs/bionet-austconservation
+https://demo.ands.org.au/vocabs/bionet-species-sighting-standard-rb-test-v3
+The narrow matches appear in the linked data api, but don't resolve.
+
+From bionet austConservation - conservation dependent
+https://editor.vocabs.ands.org.au/Bionet/vocab/austConservation/d1e240a1900
+
+https://demo.ands.org.au/repository/api/lda/ands-nc/bionet-austconservation/1-0/
+resource?uri=https://editor.vocabs.ands.org.au/Bionet/vocab/austConservation/d1e240a1900
+
+From bionet species sighting standard - 
+https://editor.vocabs.ands.org.au/Bionet/vocab/austConservation/d1e240a1900
+
+https://demo.ands.org.au/repository/api/lda/ands-nc/bionet-species-sighting-standard-rb-test-v3/1-0/
+resource?uri=https://editor.vocabs.ands.org.au/Bionet/vocab/austConservation/d1e240a1900
+
+See related example for AODN discovery parameter - broad match in following resolves correctly - whereas my URLS are pointing back to the poolparty editor
+https://vocabs.ands.org.au/repository/api/lda/aodn/aodn-discovery-parameter-vocabulary/version-1-1/resource?uri=http://vocab.nerc.ac.uk/collection/P01/current/ESNSZZXX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabs>
+   <vocab name="botanicalDivision"
+          id="d1e116a1900"
+          parentSectionName="Record-level terms"
+          parentSectionID="d1e2a1900"
+          parentTermName="botanicalDivision"
+          parentTermID="d1e111a1900">
+      <term name="North Coast" id="d1e117a1900"/>
+      <term name="Central Coast" id="d1e118a1900"/>
+      <term name="South Coast" id="d1e119a1900"/>
+      <term name="Northern Tablelands" id="d1e120a1900"/>
+      <term name="Central Tablelands" id="d1e121a1900"/>
+      <term name="Southern Tablelands" id="d1e122a1900"/>
+      <term name="North Western Slopes" id="d1e123a1900"/>
+      <term name="South Western Slopes" id="d1e124a1900"/>
+      <term name="North Western Plains" id="d1e125a1900"/>
+      <term name="South Western Plains" id="d1e126a1900"/>
+      <term name="North Far Western Plains" id="d1e127a1900"/>
+      <term name="South Far Western Plains" id="d1e129a1900"/>
+   </vocab>
+   <vocab name="geogExtent"
+          id="d1e154a1900"
+          parentSectionName="Record-level terms"
+          parentSectionID="d1e2a1900"
+          parentTermName="geogExtent"
+          parentTermID="d1e147a1900">
+      <term name="W" id="d1e155a1900">
+         <definition>Widespread; where the species is known from 5 or more BFMCs</definition>
+      </term>
+      <term name="R" id="d1e156a1900">
+         <definition>Restricted; where the species is known from 2 to 4 BFMCs</definition>
+      </term>
+      <term name="HR" id="d1e157a1900">
+         <definition>Highly Restricted; where the species in only known from 1 BFMC</definition>
+      </term>
+   </vocab>
+   <vocab name="potentialImpact"
+          id="d1e175a1900"
+          parentSectionName="Record-level terms"
+          parentSectionID="d1e2a1900"
+          parentTermName="potentialImpact"
+          parentTermID="d1e170a1900">
+      <term name="Exclude Bush Fire" id="d1e176a1900"/>
+      <term name="Restrict Bush Fire" id="d1e177a1900"/>
+      <term name="No Conditions" id="d1e178a1900"/>
+      <term name="Otherwise this field gives the value “N/A”" id="d1e179a1900"/>
+   </vocab>
+   <vocab name="reserve"
+          id="d1e193a1900"
+          parentSectionName="Record-level terms"
+          parentSectionID="d1e2a1900"
+          parentTermName="reserve"
+          parentTermID="d1e186a1900">
+      <term name="national park" id="d1e194a1900"/>
+      <term name="historic site" id="d1e195a1900"/>
+      <term name="state conservation area" id="d1e196a1900"/>
+      <term name="regional park" id="d1e197a1900"/>
+      <term name="karst conservation reserve" id="d1e198a1900"/>
+      <term name="nature reserve" id="d1e199a1900"/>
+      <term name="Aboriginal area" id="d1e200a1900"/>
+   </vocab>
+   <vocab name="vulnerability"
+          id="d1e218a1900"
+          parentSectionName="Record-level terms"
+          parentSectionID="d1e2a1900"
+          parentTermName="vulnerability"
+          parentTermID="d1e211a1900">
+      <term name="L" id="d1e219a1900">
+         <definition>Low</definition>
+      </term>
+      <term name="M" id="d1e220a1900">
+         <definition>Moderate</definition>
+      </term>
+      <term name="H" id="d1e221a1900">
+         <definition>High</definition>
+      </term>
+      <term name="VH" id="d1e222a1900">
+         <definition>Very High</definition>
+      </term>
+   </vocab>
+   <vocab name="austConservation"
+          id="d1e234a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="austConservation"
+          parentTermID="d1e229a1900">
+      <term name="CAMBA" id="d1e235a1900">
+         <definition>China-Australia Migratory Bird Agreement:</definition>
+         <definition>Refers to species listed in the Bilateral Agreement between the Government of Australia and the Government of the People’s Republic of China for the protection of Migratory Birds and their Environment (Part 5, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="Conservation Dependent" id="d1e240a1900">
+         <definition>A native species is eligible to be included in the conservation dependent category at a particular time if, at that time: (a) the species is the focus of a specific conservation program the cessation of which would result in the species becoming vulnerable, endangered or critically endangered; or (b) the following subparagraphs are satisfied: (i) the species is a species of fish; (ii) the species is the focus of a plan of management that provides for management actions necessary to stop the decline of, and support the recovery of, the species so that its chances of long term survival in nature are maximised; (iii) the plan of management is in force under a law of the Commonwealth or of a State or Territory; (iv) cessation of the plan of management would adversely affect the conservation status of the species (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="Critically Endangered" id="d1e243a1900">
+         <definition>A native species is eligible to be included in the critically endangered category at a particular time if, at that time, it is facing an extremely high risk of extinction in the wild in the immediate future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="Endangered" id="d1e246a1900">
+         <definition>A native species is eligible to be included in the endangered category at a particular time if, at that time: (a) it is not critically endangered; and (b) it is facing a very high risk of extinction in the wild in the near future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="JAMBA" id="d1e249a1900">
+         <definition>Japan-Australia Migratory Bird Agreement:</definition>
+         <definition>Refers to species listed in the Bilateral Agreement between the Government of Japan and the Government of Australia for the Protection of Migratory Birds and Birds in Danger of Extinction and their Environment (Part 5, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="ROKAMBA" id="d1e254a1900">
+         <definition>Republic of Korea-Australia Migratory Bird Agreement:</definition>
+         <definition>Refers to species listed in the Bilateral Agreement between the Government of Australia and the Government of the Republic of Korea for the protection of Migratory Birds and their Environment (Part 5, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="Key Threatening Process" id="d1e259a1900">
+         <definition>Refers to a key process that threatens or may threaten the survival, abundance or evolutionary development of a native species or ecological community (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="Vulnerable" id="d1e262a1900">
+         <definition>A native species is eligible to be included in the vulnerable category at a particular time if, at that time: (a) it is not critically endangered or endangered; and (b) it is facing a high risk of extinction in the wild in the medium‑term future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="Extinct" id="d1e265a1900">
+         <definition>A native species is eligible to be included in the extinct category at a particular time if, at that time, there is no reasonable doubt that the last member of the species has died (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+      </term>
+      <term name="Extinct in the Wild" id="d1e268a1900">
+         <definition>A native species is eligible to be included in the extinct in the wild category at a particular time if, at that time: (a) it is known only to survive in cultivation, in captivity or as a naturalised population well outside its past range; or (b) it has not been recorded in its known and/or expected habitat, at appropriate seasons, anywhere in its past range, despite exhaustive surveys over a time frame appropriate to its life cycle and form (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</definition>
+      </term>
+   </vocab>
+   <vocab name="consequence"
+          id="d1e281a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="consequence"
+          parentTermID="d1e276a1900">
+      <term name="Mi" id="d1e282a1900">
+         <definition>Minor</definition>
+      </term>
+      <term name="Mo" id="d1e283a1900">
+         <definition>Moderate</definition>
+      </term>
+      <term name="Ma" id="d1e284a1900">
+         <definition>Major</definition>
+      </term>
+      <term name="C" id="d1e285a1900">
+         <definition>Critical</definition>
+      </term>
+   </vocab>
+   <vocab name="establishmentMeans"
+          id="d1e291a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="establishmentMeans"
+          parentTermID="d1e286a1900">
+      <term name="Alive in NSW, Native" id="d1e292a1900"/>
+      <term name="Extinct in NSW, Native" id="d1e293a1900"/>
+      <term name="Introduced" id="d1e294a1900"/>
+      <term name="Not Known from NSW" id="d1e295a1900"/>
+   </vocab>
+   <vocab name="estimateTypeCode"
+          id="d1e301a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="estimateTypeCode"
+          parentTermID="d1e296a1900">
+      <term name="At least" id="d1e302a1900"/>
+      <term name="Less than" id="d1e303a1900"/>
+      <term name="Greater than" id="d1e304a1900"/>
+      <term name="Estimate" id="d1e305a1900"/>
+      <term name="Exactly" id="d1e306a1900"/>
+   </vocab>
+   <vocab name="observationType"
+          id="d1e322a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="observationType"
+          parentTermID="d1e317a1900">
+      <term name="Acoustic recording" id="d1e323a1900"/>
+      <term name="Bone, teeth or shell" id="d1e324a1900"/>
+      <term name="Burnt" id="d1e325a1900"/>
+      <term name="Burrow" id="d1e326a1900"/>
+      <term name="Camera" id="d1e327a1900"/>
+      <term name="Cat kill" id="d1e328a1900"/>
+      <term name="Crushed Cones" id="d1e329a1900"/>
+      <term name="Dead" id="d1e330a1900"/>
+      <term name="Dog kill" id="d1e331a1900"/>
+      <term name="Flora Record" id="d1e332a1900"/>
+      <term name="Floristics Record from Systematic Flora Survey" id="d1e333a1900"/>
+      <term name="Fox kill" id="d1e335a1900"/>
+      <term name="Hair, feathers or skin" id="d1e336a1900"/>
+      <term name="Heard call" id="d1e337a1900"/>
+      <term name="In raptor/owl pellet" id="d1e338a1900"/>
+      <term name="In scat" id="d1e339a1900"/>
+      <term name="Miscellaneous" id="d1e340a1900"/>
+      <term name="Nest/roost" id="d1e341a1900"/>
+      <term name="Not located" id="d1e342a1900"/>
+      <term name="Observed" id="d1e343a1900"/>
+      <term name="Observed and Heard call" id="d1e344a1900"/>
+      <term name="Road kill" id="d1e345a1900"/>
+      <term name="Scat" id="d1e347a1900"/>
+      <term name="Shot" id="d1e348a1900"/>
+      <term name="Stranding/beached" id="d1e349a1900"/>
+      <term name="Subfossil/Fossil Remains" id="d1e350a1900"/>
+      <term name="Tracks, scratchings" id="d1e351a1900"/>
+      <term name="Trapped or netted" id="d1e352a1900"/>
+      <term name="Ultrasonic recording" id="d1e353a1900"/>
+   </vocab>
+   <vocab name="occurrenceStatus"
+          id="d1e376a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="occurrenceStatus"
+          parentTermID="d1e371a1900">
+      <term name="Present" id="d1e377a1900"/>
+      <term name="Absent" id="d1e378a1900"/>
+   </vocab>
+   <vocab name="PNFFilter"
+          id="d1e391a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="PNFFilter"
+          parentTermID="d1e384a1900">
+      <term name="Y" id="d1e392a1900">
+         <definition>(Yes)</definition>
+      </term>
+      <term name="N" id="d1e393a1900">
+         <definition>(No)</definition>
+      </term>
+   </vocab>
+   <vocab name="reproductiveConditionFlora"
+          id="d1e415a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="reproductiveConditionFlora"
+          parentTermID="d1e414a1900">
+      <term name="BU Flower Buds" id="d1e416a1900"/>
+      <term name="FL Flowering" id="d1e417a1900"/>
+      <term name="FR Fresh Fruit" id="d1e418a1900"/>
+      <term name="N No Breeding Evident" id="d1e419a1900"/>
+      <term name="OF Old Fruit" id="d1e420a1900"/>
+      <term name="SD Seeds" id="d1e421a1900"/>
+      <term name="SE Seedlings Present" id="d1e422a1900"/>
+      <term name="Y Breeding Present, but not specified" id="d1e423a1900"/>
+   </vocab>
+   <vocab name="reproductiveConditionFauna"
+          id="d1e425a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="reproductiveConditionFauna"
+          parentTermID="d1e424a1900">
+      <term name="Not breeding" id="d1e426a1900"/>
+      <term name="A Adult" id="d1e427a1900"/>
+      <term name="D Distraction display" id="d1e428a1900"/>
+      <term name="E Eggs" id="d1e429a1900"/>
+      <term name="G Gravid" id="d1e430a1900"/>
+      <term name="I Immature (subadult)" id="d1e431a1900"/>
+      <term name="J Juveniles" id="d1e432a1900"/>
+      <term name="L Lactating" id="d1e433a1900"/>
+      <term name="M Nestling" id="d1e434a1900"/>
+      <term name="N Nesting" id="d1e435a1900"/>
+      <term name="P Pregnant" id="d1e436a1900"/>
+      <term name="T Tadpoles" id="d1e438a1900"/>
+      <term name="Y Yes, but no details" id="d1e439a1900"/>
+   </vocab>
+   <vocab name="sex"
+          id="d1e445a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="sex"
+          parentTermID="d1e440a1900">
+      <term name="Not Recorded" id="d1e446a1900"/>
+      <term name="Female" id="d1e447a1900"/>
+      <term name="Male" id="d1e448a1900"/>
+      <term name="Unknown" id="d1e449a1900"/>
+      <term name="Mixed sexes" id="d1e450a1900"/>
+   </vocab>
+   <vocab name="stateConservation"
+          id="d1e456a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="stateConservation"
+          parentTermID="d1e451a1900">
+      <term name="Protected" id="d1e457a1900">
+         <definition>Refers to fauna not listed in Schedule 11 of the NPW Act 1974 or to flora listed in Schedule 13 of the NPW Act 1974</definition>
+      </term>
+      <term name="Vulnerable" id="d1e460a1900">
+         <definition>Refers to fauna and flora species that are likely to become endangered unless the circumstances &amp; factors threatening its survival or evolutionary development cease to operate (Schedule 2, TSC Act 1995).</definition>
+      </term>
+      <term name="Endangered" id="d1e463a1900">
+         <definition>Refers to fauna and flora species that are likely to become extinct in nature in NSW unless the circumstances and factors threatening its survival or evolutionary developments cease to operate; or, its numbers have been reduced to such a critical level, or its habitats have been so drastically reduced, that it is in immediate danger of extinction; or, it might already be extinct, but it is not presumed extinct (Schedule 1, part 1, TSC Act 1995).</definition>
+      </term>
+      <term name="Endangered Population" id="d1e466a1900">
+         <definition>Refers to a population where, in the opinion of the Scientific Committee, its numbers have been reduced to such a critical level, or its habitat has been so drastically reduced, that it is in immediate danger of extinction and it is not a population of a species already listed in Schedule 1, and: (a) it is disjunct and at or near the limit of its geographic range, or (b) it is or is likely to be genetically distinct, or (c) it is otherwise of significant conservation value. (Schedule 1, part 2, TSC Act 1995).</definition>
+      </term>
+      <term name="Presumed Extinct" id="d1e469a1900">
+         <definition>Refers to fauna and flora species that have not been located in nature during the preceding 50 years despite searching of known and likely habitats of that period (Schedule 1, part 4, TSC Act 1995).</definition>
+      </term>
+      <term name="Critically Endangered" id="d1e472a1900">
+         <definition>Refers to a species that is eligible to be listed as a critically endangered species if, in the opinion of the Scientific Committee, it is facing an extremely high risk of extinction in New South Wales in the immediate future, as determined in accordance with criteria prescribed by the regulations. (Schedule 1a, part 1, TSC Act 1995).</definition>
+      </term>
+      <term name="Category 2 sensitive species" id="d1e475a1900">
+         <definition>Refers to species for which Atlas sightings’ coordinates will be supplied denatured to public web applications, and denatured to licensed clients. Such species are classed as highly sensitive, and provision of precise locations would subject the species to high risk from threats such as disturbance and collection.</definition>
+      </term>
+      <term name="Category 3 sensitive species" id="d1e478a1900">
+         <definition>Refers to species for which sightings’ coordinates will be supplied denatured to public web applications, but supplied ‘as-held’ to licensed clients. Current denaturing specifications are set out in Appendix 2. Such species are classed as of medium sensitivity, and provision of precise locations would subject the species to medium risk from threats such as collection/deliberate damage.</definition>
+      </term>
+   </vocab>
+   <vocab name="status"
+          id="d1e486a1900"
+          parentSectionName="Occurrence"
+          parentSectionID="d1e223a1900"
+          parentTermName="status"
+          parentTermID="d1e481a1900">
+      <term name="Accepted as valid from quarantine" id="d1e487a1900"/>
+      <term name="Invalid, in quarantine" id="d1e488a1900"/>
+      <term name="Rejected as certainly incorrect" id="d1e489a1900"/>
+      <term name="Suspect" id="d1e490a1900"/>
+      <term name="Vagrant or Escaped Animal or Planted Specimen" id="d1e491a1900"/>
+      <term name="Valid and accepted without modification" id="d1e492a1900"/>
+      <term name="Valid record from population that is no longer extant"
+            id="d1e493a1900"/>
+   </vocab>
+   <vocab name="habitat"
+          id="d1e524a1900"
+          parentSectionName="Event"
+          parentSectionID="d1e494a1900"
+          parentTermName="habitat"
+          parentTermID="d1e519a1900">
+      <term name="Closed chenopod shrubland" id="d1e525a1900"/>
+      <term name="Isolated chenopod shrub" id="d1e526a1900"/>
+      <term name="Isloated clump of chenopod shrubs" id="d1e527a1900"/>
+      <term name="Chenopod shrubland" id="d1e528a1900"/>
+      <term name="Open chenopod shrubland" id="d1e529a1900"/>
+      <term name="Sparse chenopod shrubland" id="d1e530a1900"/>
+      <term name="Closed sod grassland" id="d1e531a1900"/>
+      <term name="Isolated sod grasses" id="d1e532a1900"/>
+      <term name="Isolated clump of sod grasses" id="d1e533a1900"/>
+      <term name="Sod grassland" id="d1e534a1900"/>
+      <term name="Open sod grassland" id="d1e535a1900"/>
+      <term name="Sparse sod grassland" id="d1e537a1900"/>
+      <term name="Closed fernland" id="d1e538a1900"/>
+      <term name="Isolated ferns" id="d1e539a1900"/>
+      <term name="Isolated clumps of ferns" id="d1e540a1900"/>
+      <term name="Fernland" id="d1e541a1900"/>
+      <term name="Open fernland" id="d1e542a1900"/>
+      <term name="Sparse fernland" id="d1e543a1900"/>
+      <term name="Closed forbland" id="d1e544a1900"/>
+      <term name="Isolated forbs" id="d1e545a1900"/>
+      <term name="Isolated clumps of forbs" id="d1e546a1900"/>
+      <term name="Forbland" id="d1e547a1900"/>
+      <term name="Open forbland" id="d1e549a1900"/>
+      <term name="Sparse forbland" id="d1e550a1900"/>
+      <term name="Closed tussock grassland" id="d1e551a1900"/>
+      <term name="Isolated tussock grasses" id="d1e552a1900"/>
+      <term name="Isolated clump of tussock grasses" id="d1e553a1900"/>
+      <term name="Tussock grassland" id="d1e554a1900"/>
+      <term name="Open tussock grassland" id="d1e555a1900"/>
+      <term name="Sparse tussock grassland" id="d1e556a1900"/>
+      <term name="Closed hummock grassland" id="d1e557a1900"/>
+      <term name="Isolated hummock grass" id="d1e558a1900"/>
+      <term name="Isolated clump of hummock grasses" id="d1e559a1900"/>
+      <term name="Hummock grassland" id="d1e561a1900"/>
+      <term name="Open hummock grassland" id="d1e562a1900"/>
+      <term name="Sparse grassland" id="d1e563a1900"/>
+      <term name="Closed vineland" id="d1e564a1900"/>
+      <term name="Isolated vines" id="d1e565a1900"/>
+      <term name="Isolated clump of vines" id="d1e566a1900"/>
+      <term name="Vineland" id="d1e567a1900"/>
+      <term name="Open vineland" id="d1e568a1900"/>
+      <term name="Sparse vineland" id="d1e569a1900"/>
+      <term name="Closed mallee forest" id="d1e570a1900"/>
+      <term name="Isolated mallee trees" id="d1e571a1900"/>
+      <term name="Isolated clump of mallee trees" id="d1e573a1900"/>
+      <term name="Open mallee forest" id="d1e574a1900"/>
+      <term name="Mallee woodland" id="d1e575a1900"/>
+      <term name="Open mallee woodland" id="d1e576a1900"/>
+      <term name="Closed lichenland" id="d1e577a1900"/>
+      <term name="Isolated lichens" id="d1e578a1900"/>
+      <term name="Isolated clup of lichens" id="d1e579a1900"/>
+      <term name="Lichenland" id="d1e580a1900"/>
+      <term name="Open lichenland" id="d1e581a1900"/>
+      <term name="Sparse lichenland" id="d1e582a1900"/>
+      <term name="Beach" id="d1e583a1900"/>
+      <term name="Billabong or Swamp" id="d1e585a1900"/>
+      <term name="Coastal Waters" id="d1e586a1900"/>
+      <term name="Estuary" id="d1e587a1900"/>
+      <term name="Freshwater Lake" id="d1e588a1900"/>
+      <term name="Grazing Land" id="d1e589a1900"/>
+      <term name="Saltwater Lake" id="d1e590a1900"/>
+      <term name="Mudflat" id="d1e591a1900"/>
+      <term name="Open Ocean" id="d1e592a1900"/>
+      <term name="Crop Land" id="d1e593a1900"/>
+      <term name="Rock Outcrop" id="d1e594a1900"/>
+      <term name="Stream or River" id="d1e595a1900"/>
+      <term name="Urban" id="d1e597a1900"/>
+      <term name="Cave" id="d1e598a1900"/>
+      <term name="Closed rushland" id="d1e599a1900"/>
+      <term name="Isolated rushes" id="d1e600a1900"/>
+      <term name="Isolated clump of rushes" id="d1e601a1900"/>
+      <term name="Rushland" id="d1e602a1900"/>
+      <term name="Open rushland" id="d1e603a1900"/>
+      <term name="Sparse rushland" id="d1e604a1900"/>
+      <term name="Closed shrubland" id="d1e605a1900"/>
+      <term name="Isolated shrubs" id="d1e606a1900"/>
+      <term name="Isolated clump of shrubs" id="d1e607a1900"/>
+      <term name="Shrubland" id="d1e609a1900"/>
+      <term name="Open shrubland" id="d1e610a1900"/>
+      <term name="Sparse shrubland" id="d1e611a1900"/>
+      <term name="Closed forest" id="d1e612a1900"/>
+      <term name="Isolated trees" id="d1e613a1900"/>
+      <term name="Isolated clump of trees" id="d1e614a1900"/>
+      <term name="Open forest" id="d1e615a1900"/>
+      <term name="Woodland" id="d1e616a1900"/>
+      <term name="Open woodland" id="d1e617a1900"/>
+      <term name="Closed sedgeland" id="d1e618a1900"/>
+      <term name="Isolated sedges" id="d1e619a1900"/>
+      <term name="Isolated clump of sedges" id="d1e621a1900"/>
+      <term name="Sedgeland" id="d1e622a1900"/>
+      <term name="Open sedgeland" id="d1e623a1900"/>
+      <term name="Sparse sedgeland" id="d1e624a1900"/>
+      <term name="Closed liverwortland" id="d1e625a1900"/>
+      <term name="Isolated liverworts" id="d1e626a1900"/>
+      <term name="Isolated clump of liverworts" id="d1e627a1900"/>
+      <term name="Liverwortland" id="d1e628a1900"/>
+      <term name="Open liverwortland" id="d1e629a1900"/>
+      <term name="Sparse liverwortland" id="d1e630a1900"/>
+      <term name="Closed mossland" id="d1e631a1900"/>
+      <term name="Isolated mosses" id="d1e633a1900"/>
+      <term name="Isolated clump of mosses" id="d1e634a1900"/>
+      <term name="Mossland" id="d1e635a1900"/>
+      <term name="Open mossland" id="d1e636a1900"/>
+      <term name="Sparse mossland" id="d1e637a1900"/>
+      <term name="Closed mallee shrubland" id="d1e638a1900"/>
+      <term name="Isolated mallee shrubs" id="d1e639a1900"/>
+      <term name="Isolated clump of mallee shrubs" id="d1e640a1900"/>
+      <term name="Mallee shrubland" id="d1e641a1900"/>
+      <term name="Open mallee shrubland" id="d1e642a1900"/>
+      <term name="Sparse mallee shrubland" id="d1e643a1900"/>
+      <term name="Closed heathland" id="d1e645a1900"/>
+      <term name="Isolated heath shrub" id="d1e646a1900"/>
+      <term name="Isolated clump of heath shrubs" id="d1e647a1900"/>
+      <term name="Heathland" id="d1e648a1900"/>
+      <term name="Open heath" id="d1e649a1900"/>
+      <term name="Sparse heath" id="d1e650a1900"/>
+   </vocab>
+   <vocab name="kingdom"
+          id="d1e790a1900"
+          parentSectionName="Taxon"
+          parentSectionID="d1e764a1900"
+          parentTermName="kingdom"
+          parentTermID="d1e785a1900">
+      <term name="Animalia" id="d1e791a1900"/>
+      <term name="Plantae" id="d1e792a1900"/>
+      <term name="Fungi" id="d1e793a1900"/>
+   </vocab>
+   <vocab name="Microhabitat"
+          id="d1e871a1900"
+          parentSectionName="MeasurementOrFact"
+          parentSectionID="d1e840a1900"
+          parentTermName="Microhabitat"
+          parentTermID="d1e866a1900">
+      <term name="Flying above canopy" id="d1e872a1900"/>
+      <term name="In/on bridge" id="d1e873a1900"/>
+      <term name="In building" id="d1e874a1900"/>
+      <term name="Crevice in rock" id="d1e875a1900"/>
+      <term name="Crevice in log" id="d1e876a1900"/>
+      <term name="Farm/fire dam" id="d1e877a1900"/>
+      <term name="In dead tree (stag)" id="d1e878a1900"/>
+      <term name="Edge of water" id="d1e879a1900"/>
+      <term name="In/on post or stump" id="d1e880a1900"/>
+      <term name="Flying within canopy" id="d1e881a1900"/>
+      <term name="On ground" id="d1e882a1900"/>
+      <term name="High shrub" id="d1e884a1900"/>
+      <term name="In burrow" id="d1e885a1900"/>
+      <term name="In cave" id="d1e886a1900"/>
+      <term name="In grass" id="d1e887a1900"/>
+      <term name="In tree hollow" id="d1e888a1900"/>
+      <term name="In litter" id="d1e889a1900"/>
+      <term name="In reeds" id="d1e890a1900"/>
+      <term name="In soil" id="d1e891a1900"/>
+      <term name="In Tree" id="d1e892a1900"/>
+      <term name="In water" id="d1e893a1900"/>
+      <term name="Lower canopy" id="d1e894a1900"/>
+      <term name="Low shrub" id="d1e896a1900"/>
+      <term name="Mid canopy" id="d1e897a1900"/>
+      <term name="On (beach) sand" id="d1e898a1900"/>
+      <term name="On fence" id="d1e899a1900"/>
+      <term name="On log" id="d1e900a1900"/>
+      <term name="On rock" id="d1e901a1900"/>
+      <term name="Over water" id="d1e902a1900"/>
+      <term name="Power line" id="d1e903a1900"/>
+      <term name="On road" id="d1e904a1900"/>
+      <term name="On trunk" id="d1e905a1900"/>
+      <term name="Under bark" id="d1e906a1900"/>
+      <term name="Upper canopy" id="d1e908a1900"/>
+      <term name="Undergrowth" id="d1e909a1900"/>
+      <term name="Under log" id="d1e910a1900"/>
+      <term name="Under rock" id="d1e911a1900"/>
+      <term name="Under iron" id="d1e912a1900"/>
+      <term name="Waterhole" id="d1e913a1900"/>
+   </vocab>
+   <vocab name="SurfaceGeology"
+          id="d1e924a1900"
+          parentSectionName="MeasurementOrFact"
+          parentSectionID="d1e840a1900"
+          parentTermName="SurfaceGeology"
+          parentTermID="d1e919a1900">
+      <term name="Adamellite" id="d1e925a1900"/>
+      <term name="Agglomerate" id="d1e926a1900"/>
+      <term name="Altered Substrate Materials" id="d1e927a1900"/>
+      <term name="Amphibolite" id="d1e928a1900"/>
+      <term name="Andesite" id="d1e929a1900"/>
+      <term name="Aplite" id="d1e930a1900"/>
+      <term name="Arkose" id="d1e931a1900"/>
+      <term name="Ash" id="d1e932a1900"/>
+      <term name="Basalt" id="d1e933a1900"/>
+      <term name="Breccia" id="d1e934a1900"/>
+      <term name="Clay" id="d1e935a1900"/>
+      <term name="Chert" id="d1e937a1900"/>
+      <term name="Coal" id="d1e938a1900"/>
+      <term name="Conglomerate" id="d1e939a1900"/>
+      <term name="Coffee Rock" id="d1e940a1900"/>
+      <term name="Diorite" id="d1e941a1900"/>
+      <term name="Dolomite" id="d1e942a1900"/>
+      <term name="Dolerite" id="d1e943a1900"/>
+      <term name="Eolianite" id="d1e944a1900"/>
+      <term name="Ferricrete" id="d1e945a1900"/>
+      <term name="Gabbro" id="d1e946a1900"/>
+      <term name="Granodiorite" id="d1e947a1900"/>
+      <term name="Greenstone" id="d1e949a1900"/>
+      <term name="Granite" id="d1e950a1900"/>
+      <term name="Gneiss" id="d1e951a1900"/>
+      <term name="Gravel" id="d1e952a1900"/>
+      <term name="Graywacke" id="d1e953a1900"/>
+      <term name="Hornfels" id="d1e954a1900"/>
+      <term name="Unidentified igneous rock" id="d1e955a1900"/>
+      <term name="Jasper" id="d1e956a1900"/>
+      <term name="Calcrete" id="d1e957a1900"/>
+      <term name="Calcareous sand" id="d1e958a1900"/>
+      <term name="Laterite" id="d1e959a1900"/>
+      <term name="Limestone" id="d1e961a1900"/>
+      <term name="Marble" id="d1e962a1900"/>
+      <term name="Unidentifed metamorphic rock" id="d1e963a1900"/>
+      <term name="Marl" id="d1e964a1900"/>
+      <term name="Monzonite" id="d1e965a1900"/>
+      <term name="Mudstone" id="d1e966a1900"/>
+      <term name="No Observation Possible" id="d1e967a1900"/>
+      <term name="Not Recorded" id="d1e968a1900"/>
+      <term name="Obsidian" id="d1e969a1900"/>
+      <term name="Other" id="d1e970a1900"/>
+      <term name="Phyllite" id="d1e971a1900"/>
+      <term name="Quartz porphyry" id="d1e973a1900"/>
+      <term name="Quartzite" id="d1e974a1900"/>
+      <term name="Rhyolite" id="d1e975a1900"/>
+      <term name="Sand" id="d1e976a1900"/>
+      <term name="Sandstone" id="d1e977a1900"/>
+      <term name="Silcrete" id="d1e978a1900"/>
+      <term name="Sand/Clay/Alluvium" id="d1e979a1900"/>
+      <term name="Unidentified sedimentary rock" id="d1e980a1900"/>
+      <term name="Shale" id="d1e981a1900"/>
+      <term name="Shale/Sandstone" id="d1e982a1900"/>
+      <term name="Siltstone" id="d1e983a1900"/>
+      <term name="Scoria" id="d1e985a1900"/>
+      <term name="Slate" id="d1e986a1900"/>
+      <term name="Serpentine" id="d1e987a1900"/>
+      <term name="Schist" id="d1e988a1900"/>
+      <term name="Syenite" id="d1e989a1900"/>
+      <term name="Trachyte" id="d1e990a1900"/>
+      <term name="Tuff" id="d1e991a1900"/>
+      <term name="Unidentified Unconsolidated Substrate Material" id="d1e992a1900"/>
+      <term name="Unknown" id="d1e993a1900"/>
+      <term name="Silt" id="d1e994a1900"/>
+   </vocab>
+</vocabs>

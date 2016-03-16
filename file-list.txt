@@ -1,0 +1,91 @@
+
+
+bionet1.xsl
+~~~~~~~~~~~ 
+Takes the cleaned html version of the source document and removes extraneous sections and class statements.  It also removes some empty elements and 
+cleans up a couple of class statements associated with vocabularies.  Outputs bionet1.xml
+
+bionet2.xsl
+~~~~~~~~~~~
+Removes empty spans and paragraphs from bionet1.xml, and utputs bionet2.xml
+
+bionet3.xsl
+~~~~~~~~~~~
+Removes empty spans and paragraphs not removed in bionet2.xsl, takes bionet2.xml as input, and outputs bionet3.xml
+
+bionet4.xsl
+~~~~~~~~~~~
+First output to simple xml.  All previous transformations output html.  Also added name attributes to sections, terms and vocabularies.
+Uses normalize-space() on all text.
+
+bionet5.xsl
+~~~~~~~~~~~
+Creates two additional narrow terms not contained in the source document.  reproductiveCondition is populated using two vocabularies reflecting flora and fauna.
+I split the vocabularies and made narrow terms for reproductiveConditionFlora, and reproductiveConditionFlora
+
+bionet6.xsl
+~~~~~~~~~~~
+Imports the vocabularies under the two additional terms created in bionet5.xsl
+
+bionet7.xsl
+~~~~~~~~~~~
+Gives each section and term an id for use in constructing URIs, and ids for each vocabulary.
+
+bionet8.xsl
+~~~~~~~~~~~
+Removes leading and trailing unicode 160 space characters
+
+bionet9.xsl
+~~~~~~~~~~~
+Some term labels begin with a combination of dashes and spaces.  Removes leading dashes & spaces
+
+bionet10.xsl
+~~~~~~~~~~~~
+Split some terms into labels and definitions - part one.  Couldn't work out how to add the definition element here
+so created an attribute and turned it into a definition element in the following xslt.  Kept getting error
+can't add attribute nodes to an element using <xsl:attribute> after you've added any child nodes
+
+bionet11.xsl
+~~~~~~~~~~~~
+Split some terms into labels and definitions - part two.  Turn the definition attribute into an element 
+
+bionet12.xsl
+~~~~~~~~~~~~
+Shifts dynamicProperties and measurementType sections so they become narrower terms of their parent terms
+
+Next steps
+~~~~~~~~~
+Add parent section attribute to each of the component vocabularies, and vocab name attribute to its term parent
+Copy all of the vocabularies to a new xml, so they're all on the same level
+
+For the top-level sections, output separate xml describing when particular terms use particular vocabularies.  This information
+could then be included in description of the schema as a whole, as well as description of each of the top level sections.
+Output similar information covering each vocabulary
+
+Transform each to skos as separate file, using their attributes to generate resource URIs and NT/BT cross match URIs
+
+bionet13.xsl
+~~~~~~~~~~~~
+For each vocabulary, add attributes for parent section and parent term - names and IDs
+For each parent term of a vocabulary, add attributes for child vocabulary - names and IDs
+
+bionet14.xsl
+~~~~~~~~~~~~
+Output the 21 component vocabularies
+
+bionet15.xsl
+~~~~~~~~~~~~
+Output the top-level schema
+
+bionet16.xsl
+~~~~~~~~~~~~
+Outputs 21 skos rdf vocabularies from bionet14-vocabx.xml
+
+bionet17.xsl
+~~~~~~~~~~~~
+Outputs the bionet schema as skos rdf, from bionet15-schema.xml
+
+bionet17-revised 
+~~~~~~~~~~~~~~~~
+is a more concise version of bionet17.xsl
+

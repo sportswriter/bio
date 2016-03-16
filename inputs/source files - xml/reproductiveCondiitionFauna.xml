@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <vocab name="reproductiveConditionFauna">
+        <term name="Not breeding"></term>
+        <term name="A Adult"></term>
+        <term name="D Distraction display"></term>
+        <term name="E Eggs"></term>
+        <term name="G Gravid"></term>
+        <term name="I Immature (subadult)"></term>
+        <term name="J Juveniles"></term>
+        <term name="L Lactating"></term>
+        <term name="M Nestling"></term>
+        <term name="N Nesting"></term>
+        <term name="P Pregnant"></term>
+        <term name="T Tadpoles"></term>
+        <term name="Y Yes, but no details"></term>
+    </vocab>
+</doc>

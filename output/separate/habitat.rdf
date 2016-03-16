@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/">
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <rdfs:label xml:lang="en">Bionet habitat vocabulary (RB test v3)</rdfs:label>
+      <dcterms:title xml:lang="en">Bionet habitat vocabulary (RB test v3)</dcterms:title>
+      <dcterms:description xml:lang="en">The habitat vocabulary is used by Bionet to populate the habitat field within the Event section of the Bionet Species Sighting Standard</dcterms:description>
+      <dcterms:description xml:lang="en">For more information about the Bionet Species Sighting Standard, see https://data.bionet.nsw.gov.au/resources/bionet/BioNet-species-sighting-web-service-data-standard.pdf</dcterms:description>
+      <dcterms:subject xml:lang="en">species</dcterms:subject>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e525a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e526a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e527a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e528a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e529a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e530a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e531a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e532a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e533a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e534a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e535a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e537a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e538a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e539a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e540a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e541a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e542a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e543a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e544a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e545a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e546a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e547a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e549a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e550a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e551a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e552a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e553a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e554a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e555a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e556a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e557a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e558a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e559a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e561a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e562a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e563a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e564a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e565a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e566a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e567a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e568a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e569a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e570a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e571a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e573a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e574a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e575a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e576a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e577a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e578a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e579a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e580a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e581a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e582a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e583a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e585a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e586a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e587a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e588a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e589a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e590a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e591a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e592a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e593a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e594a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e595a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e597a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e598a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e599a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e600a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e601a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e602a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e603a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e604a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e605a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e606a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e607a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e609a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e610a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e611a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e612a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e613a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e614a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e615a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e616a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e617a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e618a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e619a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e621a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e622a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e623a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e624a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e625a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e626a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e627a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e628a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e629a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e630a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e631a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e633a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e634a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e635a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e636a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e637a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e638a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e639a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e640a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e641a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e642a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e643a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e645a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e646a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e647a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e648a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e649a1900"/>
+      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e650a1900"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e525a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed chenopod shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e526a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated chenopod shrub</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e527a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isloated clump of chenopod shrubs</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e528a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Chenopod shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e529a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open chenopod shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e530a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse chenopod shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e531a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed sod grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e532a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated sod grasses</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e533a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of sod grasses</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e534a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sod grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e535a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open sod grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e537a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse sod grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e538a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed fernland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e539a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated ferns</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e540a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clumps of ferns</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e541a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Fernland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e542a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open fernland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e543a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse fernland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e544a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed forbland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e545a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated forbs</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e546a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clumps of forbs</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e547a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Forbland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e549a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open forbland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e550a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse forbland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e551a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed tussock grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e552a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated tussock grasses</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e553a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of tussock grasses</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e554a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Tussock grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e555a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open tussock grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e556a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse tussock grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e557a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed hummock grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e558a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated hummock grass</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e559a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of hummock grasses</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e561a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Hummock grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e562a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open hummock grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e563a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse grassland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e564a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed vineland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e565a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated vines</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e566a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of vines</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e567a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Vineland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e568a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open vineland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e569a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse vineland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e570a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed mallee forest</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e571a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated mallee trees</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e573a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of mallee trees</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e574a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open mallee forest</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e575a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Mallee woodland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e576a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open mallee woodland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e577a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed lichenland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e578a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated lichens</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e579a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clup of lichens</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e580a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Lichenland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e581a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open lichenland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e582a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse lichenland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e583a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Beach</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e585a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Billabong or Swamp</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e586a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Coastal Waters</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e587a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Estuary</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e588a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Freshwater Lake</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e589a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Grazing Land</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e590a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Saltwater Lake</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e591a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Mudflat</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e592a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open Ocean</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e593a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Crop Land</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e594a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Rock Outcrop</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e595a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Stream or River</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e597a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Urban</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e598a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Cave</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e599a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed rushland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e600a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated rushes</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e601a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of rushes</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e602a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Rushland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e603a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open rushland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e604a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse rushland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e605a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e606a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated shrubs</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e607a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of shrubs</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e609a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e610a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e611a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e612a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed forest</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e613a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated trees</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e614a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of trees</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e615a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open forest</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e616a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Woodland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e617a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open woodland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e618a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed sedgeland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e619a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated sedges</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e621a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of sedges</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e622a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sedgeland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e623a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open sedgeland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e624a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse sedgeland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e625a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed liverwortland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e626a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated liverworts</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e627a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of liverworts</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e628a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Liverwortland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e629a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open liverwortland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e630a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse liverwortland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e631a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed mossland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e633a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated mosses</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e634a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of mosses</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e635a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Mossland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e636a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open mossland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e637a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse mossland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e638a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed mallee shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e639a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated mallee shrubs</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e640a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of mallee shrubs</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e641a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Mallee shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e642a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open mallee shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e643a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse mallee shrubland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e645a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Closed heathland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e646a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated heath shrub</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e647a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Isolated clump of heath shrubs</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e648a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Heathland</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e649a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Open heath</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/habitat/d1e650a1900">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Sparse heath</skos:prefLabel>
+      <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
+      <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
+      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/habitat"/>
+   </rdf:Description>
+
+</rdf:RDF>
