@@ -5,7 +5,7 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:dcterms="http://purl.org/dc/terms/">
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <rdfs:label xml:lang="en">Bionet stateConservation vocabulary (RB test v3)</rdfs:label>
       <dcterms:title xml:lang="en">Bionet stateConservation vocabulary (RB test v3)</dcterms:title>
@@ -15,85 +15,85 @@
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
       <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e457a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e460a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e463a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e466a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e469a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e472a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e475a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e478a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e457a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e460a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e463a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e466a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e469a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e472a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e475a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e478a1900"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e457a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e457a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Protected</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation"/>
       <skos:definition xml:lang="en">Refers to fauna not listed in Schedule 11 of the NPW Act 1974 or to flora listed in Schedule 13 of the NPW Act 1974</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e460a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e460a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Vulnerable</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation"/>
       <skos:definition xml:lang="en">Refers to fauna and flora species that are likely to become endangered unless the circumstances &amp; factors threatening its survival or evolutionary development cease to operate (Schedule 2, TSC Act 1995).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e463a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e463a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Endangered</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation"/>
       <skos:definition xml:lang="en">Refers to fauna and flora species that are likely to become extinct in nature in NSW unless the circumstances and factors threatening its survival or evolutionary developments cease to operate; or, its numbers have been reduced to such a critical level, or its habitats have been so drastically reduced, that it is in immediate danger of extinction; or, it might already be extinct, but it is not presumed extinct (Schedule 1, part 1, TSC Act 1995).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e466a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e466a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Endangered Population</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation"/>
       <skos:definition xml:lang="en">Refers to a population where, in the opinion of the Scientific Committee, its numbers have been reduced to such a critical level, or its habitat has been so drastically reduced, that it is in immediate danger of extinction and it is not a population of a species already listed in Schedule 1, and: (a) it is disjunct and at or near the limit of its geographic range, or (b) it is or is likely to be genetically distinct, or (c) it is otherwise of significant conservation value. (Schedule 1, part 2, TSC Act 1995).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e469a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e469a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Presumed Extinct</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation"/>
       <skos:definition xml:lang="en">Refers to fauna and flora species that have not been located in nature during the preceding 50 years despite searching of known and likely habitats of that period (Schedule 1, part 4, TSC Act 1995).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e472a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e472a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Critically Endangered</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation"/>
       <skos:definition xml:lang="en">Refers to a species that is eligible to be listed as a critically endangered species if, in the opinion of the Scientific Committee, it is facing an extremely high risk of extinction in New South Wales in the immediate future, as determined in accordance with criteria prescribed by the regulations. (Schedule 1a, part 1, TSC Act 1995).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e475a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e475a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Category 2 sensitive species</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation"/>
       <skos:definition xml:lang="en">Refers to species for which Atlas sightings’ coordinates will be supplied denatured to public web applications, and denatured to licensed clients. Such species are classed as highly sensitive, and provision of precise locations would subject the species to high risk from threats such as disturbance and collection.</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/stateConservation/d1e478a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation/d1e478a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Category 3 sensitive species</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/stateConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/stateConservation"/>
       <skos:definition xml:lang="en">Refers to species for which sightings’ coordinates will be supplied denatured to public web applications, but supplied ‘as-held’ to licensed clients. Current denaturing specifications are set out in Appendix 2. Such species are classed as of medium sensitivity, and provision of precise locations would subject the species to medium risk from threats such as collection/deliberate damage.</skos:definition>
    </rdf:Description>
 

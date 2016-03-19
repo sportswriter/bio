@@ -5,7 +5,7 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:dcterms="http://purl.org/dc/terms/">
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <rdfs:label xml:lang="en">Bionet Microhabitat vocabulary (RB test v3)</rdfs:label>
       <dcterms:title xml:lang="en">Bionet Microhabitat vocabulary (RB test v3)</dcterms:title>
@@ -15,357 +15,357 @@
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
       <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e872a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e873a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e874a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e875a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e876a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e877a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e878a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e879a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e880a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e881a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e882a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e884a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e885a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e886a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e887a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e888a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e889a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e890a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e891a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e892a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e893a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e894a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e896a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e897a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e898a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e899a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e900a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e901a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e902a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e903a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e904a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e905a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e906a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e908a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e909a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e910a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e911a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e912a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e913a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e872a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e873a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e874a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e875a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e876a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e877a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e878a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e879a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e880a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e881a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e882a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e884a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e885a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e886a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e887a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e888a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e889a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e890a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e891a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e892a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e893a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e894a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e896a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e897a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e898a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e899a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e900a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e901a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e902a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e903a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e904a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e905a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e906a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e908a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e909a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e910a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e911a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e912a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e913a1900"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e872a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e872a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Flying above canopy</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e873a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e873a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In/on bridge</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e874a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e874a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In building</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e875a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e875a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Crevice in rock</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e876a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e876a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Crevice in log</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e877a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e877a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Farm/fire dam</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e878a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e878a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In dead tree (stag)</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e879a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e879a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Edge of water</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e880a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e880a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In/on post or stump</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e881a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e881a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Flying within canopy</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e882a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e882a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">On ground</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e884a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e884a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">High shrub</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e885a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e885a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In burrow</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e886a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e886a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In cave</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e887a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e887a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In grass</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e888a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e888a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In tree hollow</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e889a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e889a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In litter</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e890a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e890a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In reeds</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e891a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e891a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In soil</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e892a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e892a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In Tree</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e893a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e893a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">In water</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e894a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e894a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Lower canopy</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e896a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e896a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Low shrub</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e897a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e897a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Mid canopy</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e898a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e898a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">On (beach) sand</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e899a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e899a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">On fence</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e900a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e900a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">On log</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e901a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e901a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">On rock</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e902a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e902a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Over water</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e903a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e903a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Power line</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e904a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e904a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">On road</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e905a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e905a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">On trunk</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e906a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e906a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Under bark</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e908a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e908a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Upper canopy</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e909a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e909a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Undergrowth</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e910a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e910a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Under log</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e911a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e911a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Under rock</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e912a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e912a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Under iron</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat/d1e913a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat/d1e913a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Waterhole</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/Microhabitat"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/Microhabitat"/>
    </rdf:Description>
 
 </rdf:RDF>

@@ -15,8 +15,8 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:strip-space elements="*"/>
     
-    <xsl:variable name="schemaBaseURI" select="'https://vocabs.ands.org.au/Bionet/schema'"/>
-    <xsl:variable name="vocabBaseURI" select="'https://vocabs.ands.org.au/Bionet/vocab/'"/>
+    <xsl:variable name="schemaBaseURI" select="'http://104.244.76.201/Bionet-ANDS-test/schema'"/>
+    <xsl:variable name="vocabBaseURI" select="'http://104.244.76.201/Bionet-ANDS-test/vocab/'"/>
     <xsl:variable name="skosConceptSchemeURI" select="'http://www.w3.org/2004/02/skos/core#ConceptScheme'"/>
     <xsl:variable name="skosConceptURI" select="'http://www.w3.org/2004/02/skos/core#Concept'"/>
     <xsl:variable name="creator" select="'Bionet (NSW Office of Environment and Heritage)'"/>
@@ -71,7 +71,7 @@
             <skos:prefLabel xml:lang="{$language}"><xsl:value-of select="@name"/></skos:prefLabel>
             <dcterms:creator><xsl:value-of select="$creator"/></dcterms:creator>
             <dcterms:contributor><xsl:value-of select="$creator"/></dcterms:contributor>
-            <skos:topConceptOf rdf:resource="{concat($schemaBaseURI,'/',ancestor::vocab[1]/@name)}"/>
+            <skos:topConceptOf rdf:resource="{$schemaBaseURI}"/>
             <xsl:apply-templates select="intro"/>
             <xsl:apply-templates select="term" mode="narrower"></xsl:apply-templates>
         </rdf:Description>
@@ -87,10 +87,10 @@
             <dcterms:contributor><xsl:value-of select="$creator"/></dcterms:contributor>
             <!--   The .. abbreviation is a shorthand for parent::node().         -->
             <xsl:if test="name(..) eq 'term'">
-                <skos:broader rdf:resource="{concat($schemaBaseURI,'/',ancestor::section[1]/@id)}"/>
+                <skos:broader rdf:resource="{concat($schemaBaseURI,'/',ancestor::term[1]/@id)}"/>
             </xsl:if>
             <xsl:if test="name(..) eq 'section'">
-                <skos:broader rdf:resource="{concat($schemaBaseURI,'/',ancestor::term[1]/@id)}"/>
+                <skos:broader rdf:resource="{concat($schemaBaseURI,'/',ancestor::section[1]/@id)}"/>
             </xsl:if>
             <xsl:apply-templates select="intro"/>
             <xsl:apply-templates select="term" mode="narrower"></xsl:apply-templates>

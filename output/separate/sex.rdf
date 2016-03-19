@@ -5,7 +5,7 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:dcterms="http://purl.org/dc/terms/">
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/sex">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/sex">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <rdfs:label xml:lang="en">Bionet sex vocabulary (RB test v3)</rdfs:label>
       <dcterms:title xml:lang="en">Bionet sex vocabulary (RB test v3)</dcterms:title>
@@ -15,51 +15,51 @@
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
       <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e446a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e447a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e448a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e449a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e450a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e446a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e447a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e448a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e449a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e450a1900"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e446a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e446a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Not Recorded</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e447a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e447a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Female</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e448a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e448a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Male</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e449a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e449a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Unknown</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/sex/d1e450a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/sex/d1e450a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Mixed sexes</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/sex"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/sex"/>
    </rdf:Description>
 
 </rdf:RDF>

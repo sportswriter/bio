@@ -5,7 +5,7 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:dcterms="http://purl.org/dc/terms/">
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <rdfs:label xml:lang="en">Bionet austConservation vocabulary (RB test v3)</rdfs:label>
       <dcterms:title xml:lang="en">Bionet austConservation vocabulary (RB test v3)</dcterms:title>
@@ -15,108 +15,108 @@
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
       <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e235a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e240a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e243a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e246a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e249a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e254a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e259a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e262a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e265a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e268a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e235a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e240a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e243a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e246a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e249a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e254a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e259a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e262a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e265a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e268a1900"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e235a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e235a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">CAMBA</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">China-Australia Migratory Bird Agreement:</skos:definition>
       <skos:definition xml:lang="en">Refers to species listed in the Bilateral Agreement between the Government of Australia and the Government of the People’s Republic of China for the protection of Migratory Birds and their Environment (Part 5, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e240a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e240a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Conservation Dependent</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">A native species is eligible to be included in the conservation dependent category at a particular time if, at that time: (a) the species is the focus of a specific conservation program the cessation of which would result in the species becoming vulnerable, endangered or critically endangered; or (b) the following subparagraphs are satisfied: (i) the species is a species of fish; (ii) the species is the focus of a plan of management that provides for management actions necessary to stop the decline of, and support the recovery of, the species so that its chances of long term survival in nature are maximised; (iii) the plan of management is in force under a law of the Commonwealth or of a State or Territory; (iv) cessation of the plan of management would adversely affect the conservation status of the species (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e243a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e243a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Critically Endangered</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">A native species is eligible to be included in the critically endangered category at a particular time if, at that time, it is facing an extremely high risk of extinction in the wild in the immediate future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e246a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e246a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Endangered</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">A native species is eligible to be included in the endangered category at a particular time if, at that time: (a) it is not critically endangered; and (b) it is facing a very high risk of extinction in the wild in the near future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e249a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e249a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">JAMBA</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">Japan-Australia Migratory Bird Agreement:</skos:definition>
       <skos:definition xml:lang="en">Refers to species listed in the Bilateral Agreement between the Government of Japan and the Government of Australia for the Protection of Migratory Birds and Birds in Danger of Extinction and their Environment (Part 5, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e254a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e254a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">ROKAMBA</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">Republic of Korea-Australia Migratory Bird Agreement:</skos:definition>
       <skos:definition xml:lang="en">Refers to species listed in the Bilateral Agreement between the Government of Australia and the Government of the Republic of Korea for the protection of Migratory Birds and their Environment (Part 5, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e259a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e259a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Key Threatening Process</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">Refers to a key process that threatens or may threaten the survival, abundance or evolutionary development of a native species or ecological community (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e262a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e262a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Vulnerable</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">A native species is eligible to be included in the vulnerable category at a particular time if, at that time: (a) it is not critically endangered or endangered; and (b) it is facing a high risk of extinction in the wild in the medium‑term future, as determined in accordance with the prescribed criteria (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e265a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e265a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Extinct</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">A native species is eligible to be included in the extinct category at a particular time if, at that time, there is no reasonable doubt that the last member of the species has died (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/austConservation/d1e268a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation/d1e268a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Extinct in the Wild</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/austConservation"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/austConservation"/>
       <skos:definition xml:lang="en">A native species is eligible to be included in the extinct in the wild category at a particular time if, at that time: (a) it is known only to survive in cultivation, in captivity or as a naturalised population well outside its past range; or (b) it has not been recorded in its known and/or expected habitat, at appropriate seasons, anywhere in its past range, despite exhaustive surveys over a time frame appropriate to its life cycle and form (Subdivision A of Division 1 of Part 13, Commonwealth EPBC Act 1999).</skos:definition>
    </rdf:Description>
 

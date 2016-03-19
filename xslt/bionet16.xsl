@@ -9,15 +9,13 @@
     exclude-result-prefixes="xs"
     version="2.0">
     
-    
     <!--  Output 21 skos rdf vocabularies  -->
-    
     
     <xsl:output method="xml" indent="yes"/>
     <xsl:strip-space elements="*"/>
     
    <!-- <xsl:variable name="schemaBaseURI" select="'https://vocabs.ands.org.au/Bionet/schema'"/>-->
-    <xsl:variable name="vocabBaseURI" select="'https://vocabs.ands.org.au/Bionet/vocab/'"/>
+    <xsl:variable name="vocabBaseURI" select="'http://104.244.76.201/Bionet-ANDS-test/vocab/'"/>
     <xsl:variable name="skosConceptSchemeURI" select="'http://www.w3.org/2004/02/skos/core#ConceptScheme'"/>
     <xsl:variable name="skosConceptURI" select="'http://www.w3.org/2004/02/skos/core#Concept'"/>
     <xsl:variable name="creator" select="'Bionet (NSW Office of Environment and Heritage)'"/>

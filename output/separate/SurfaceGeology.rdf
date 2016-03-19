@@ -5,7 +5,7 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:dcterms="http://purl.org/dc/terms/">
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <rdfs:label xml:lang="en">Bionet SurfaceGeology vocabulary (RB test v3)</rdfs:label>
       <dcterms:title xml:lang="en">Bionet SurfaceGeology vocabulary (RB test v3)</dcterms:title>
@@ -15,591 +15,591 @@
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
       <dcterms:publisher>Bionet (NSW Office of Environment and Heritage)</dcterms:publisher>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e925a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e926a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e927a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e928a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e929a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e930a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e931a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e932a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e933a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e934a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e935a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e937a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e938a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e939a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e940a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e941a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e942a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e943a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e944a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e945a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e946a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e947a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e949a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e950a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e951a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e952a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e953a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e954a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e955a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e956a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e957a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e958a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e959a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e961a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e962a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e963a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e964a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e965a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e966a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e967a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e968a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e969a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e970a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e971a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e973a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e974a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e975a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e976a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e977a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e978a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e979a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e980a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e981a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e982a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e983a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e985a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e986a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e987a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e988a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e989a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e990a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e991a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e992a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e993a1900"/>
-      <skos:hasTopConcept rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e994a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e925a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e926a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e927a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e928a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e929a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e930a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e931a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e932a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e933a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e934a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e935a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e937a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e938a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e939a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e940a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e941a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e942a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e943a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e944a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e945a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e946a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e947a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e949a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e950a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e951a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e952a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e953a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e954a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e955a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e956a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e957a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e958a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e959a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e961a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e962a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e963a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e964a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e965a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e966a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e967a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e968a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e969a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e970a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e971a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e973a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e974a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e975a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e976a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e977a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e978a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e979a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e980a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e981a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e982a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e983a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e985a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e986a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e987a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e988a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e989a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e990a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e991a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e992a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e993a1900"/>
+      <skos:hasTopConcept rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e994a1900"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e925a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e925a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Adamellite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e926a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e926a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Agglomerate</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e927a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e927a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Altered Substrate Materials</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e928a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e928a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Amphibolite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e929a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e929a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Andesite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e930a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e930a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Aplite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e931a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e931a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Arkose</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e932a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e932a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Ash</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e933a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e933a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Basalt</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e934a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e934a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Breccia</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e935a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e935a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Clay</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e937a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e937a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Chert</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e938a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e938a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Coal</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e939a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e939a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Conglomerate</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e940a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e940a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Coffee Rock</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e941a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e941a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Diorite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e942a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e942a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Dolomite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e943a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e943a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Dolerite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e944a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e944a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Eolianite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e945a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e945a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Ferricrete</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e946a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e946a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Gabbro</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e947a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e947a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Granodiorite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e949a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e949a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Greenstone</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e950a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e950a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Granite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e951a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e951a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Gneiss</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e952a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e952a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Gravel</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e953a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e953a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Graywacke</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e954a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e954a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Hornfels</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e955a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e955a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Unidentified igneous rock</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e956a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e956a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Jasper</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e957a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e957a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Calcrete</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e958a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e958a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Calcareous sand</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e959a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e959a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Laterite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e961a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e961a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Limestone</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e962a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e962a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Marble</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e963a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e963a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Unidentifed metamorphic rock</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e964a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e964a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Marl</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e965a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e965a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Monzonite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e966a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e966a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Mudstone</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e967a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e967a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">No Observation Possible</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e968a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e968a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Not Recorded</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e969a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e969a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Obsidian</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e970a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e970a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e971a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e971a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Phyllite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e973a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e973a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Quartz porphyry</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e974a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e974a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Quartzite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e975a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e975a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Rhyolite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e976a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e976a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Sand</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e977a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e977a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Sandstone</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e978a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e978a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Silcrete</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e979a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e979a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Sand/Clay/Alluvium</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e980a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e980a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Unidentified sedimentary rock</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e981a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e981a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Shale</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e982a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e982a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Shale/Sandstone</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e983a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e983a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Siltstone</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e985a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e985a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Scoria</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e986a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e986a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Slate</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e987a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e987a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Serpentine</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e988a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e988a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Schist</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e989a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e989a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Syenite</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e990a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e990a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Trachyte</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e991a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e991a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Tuff</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e992a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e992a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Unidentified Unconsolidated Substrate Material</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e993a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e993a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Unknown</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology/d1e994a1900">
+   <rdf:Description rdf:about="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology/d1e994a1900">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:prefLabel xml:lang="en">Silt</skos:prefLabel>
       <dcterms:creator>Bionet (NSW Office of Environment and Heritage)</dcterms:creator>
       <dcterms:contributor>Bionet (NSW Office of Environment and Heritage)</dcterms:contributor>
-      <skos:topConceptOf rdf:resource="https://vocabs.ands.org.au/Bionet/vocab/SurfaceGeology"/>
+      <skos:topConceptOf rdf:resource="http://104.244.76.201/Bionet-ANDS-test/vocab/SurfaceGeology"/>
    </rdf:Description>
 
 </rdf:RDF>
